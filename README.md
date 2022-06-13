@@ -11,4 +11,4 @@
 ---
 
 ### HTTP
-- [HTTP/1.0](HTTP/http1.0.md)
+- [HTTP/1.0](HTTP/HTTP1.0.md)
