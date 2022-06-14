@@ -9,6 +9,7 @@
 
 ## Categories
 * [Cloud](#cloud) 
+* [gRPC](#grpc)
 * [HTTP](#http)
 * [OpenSource](#opensource)
 
@@ -16,6 +17,9 @@
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
+
+### gRPC
+- [Comparison of gRPC services and HTTP APIs](gRPC/Comparison%20of%20gRPC%20services%20and%20HTTP%20APIs.md)
   
 ### HTTP
 - [HTTP/1.0](HTTP/HTTP1.0.md)
