@@ -29,11 +29,11 @@
 
 ### 알아야 할 용어
 - data stream
-- NAT(Network Address Translation)
+- [NAT(Network Address Translation)](./NAT.md)
 - Signaling
 - SDP
 - JSEP
 - UDP/TCP
-- ICE(Interactive Connectivity Establishment)
-- STUN(Session Traversal Utilities for NAT)]
-- TURN(Traversal Using Relays around NAT)
+- [ICE(Interactive Connectivity Establishment)](./ICE.md)
+- [STUN(Session Traversal Utilities for NAT)](./STUN%26TURN.md)
+- [TURN(Traversal Using Relays around NAT)](./STUN%26TURN.md)
