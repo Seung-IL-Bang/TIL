@@ -19,6 +19,7 @@
 
 ### Book
 - [이것이 코딩테스트다/ 파이썬 문법/ Number](Book/이것이%20코딩%20테스트다/파이썬문법/Number.md)
+- [이것이 코딩테스트다/ 파이썬 문법/ List](Book/이것이%20코딩%20테스트다/파이썬문법/List.md)
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
