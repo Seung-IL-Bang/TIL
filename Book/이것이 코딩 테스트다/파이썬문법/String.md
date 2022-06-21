@@ -35,6 +35,24 @@ data = "\"Hello World\""
 print(data) # "Hello World"
 ```
 
+참고할 만한 이스케이프 문자
+1. 한 줄 띄어쓰기: `\n`
+2. 들여쓰기: `\t`
+
+```python
+# 한 줄 띄어쓰기: \n
+data = "Hello\nWorld"
+print(data)
+"""
+Hello
+World
+"""
+
+# 들여쓰기: \t
+data = "Hello\tWorld"
+print(data) # Hello    World"
+```
+
 ### 문자열 연산
 
 파이썬은 문자열에 대한 연산도 지원한다.
