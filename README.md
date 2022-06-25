@@ -24,7 +24,8 @@
 - [이것이 코딩테스트다/ 파이썬 문법/ String](Book/이것이%20코딩%20테스트다/파이썬문법/String.md)
 
 ### BootCamp
-- [22-06-23 [01] Learn How to Learn](BootCamp/22-06-23[01]학습방향.md)
+- [22-06-23 [01] Learn How to Learn : 학습 방향 설정](BootCamp/22-06-23[01]학습방향.md)
+- [22-06-24 [02] Development 기초_컴퓨터와 프로그래밍 이해](BootCamp/22-06-24[02]컴퓨터와프로그래밍이해.md)
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
