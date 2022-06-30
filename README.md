@@ -30,6 +30,7 @@
 - [22-06-24 [02] Development 기초_클라이언트와 서버 이해](BootCamp/22-06-24[02]웹클라이언트와웹서버.md)
 - [22-06-27 [03] Publishing_HTML, CSS](BootCamp/22-06-27[03]htmlCSS.md)
 - [22-06-28 [03] Publishing_Page layout, 와이어프레임](BootCamp/22-06-28[03]Pagelayout와이어프레임.md)
+- [22-06-30 [04] Linux 기초_CLI 기본 명령어](BootCamp/22-06-30[04]linuxBasicCmd.md)
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
