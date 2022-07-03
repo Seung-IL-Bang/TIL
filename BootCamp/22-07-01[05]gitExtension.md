@@ -3,6 +3,7 @@
 - [git 초기화 및 원격 설정](#git-repo-초기화-및-원격-설정)
 - [충돌 해결하기](#⚡️-충돌-해결하기)
 - [협업 시 Workflow](#🌟-pair-programming-workflow)
+- [Reference]()
 
 ---
 
@@ -84,3 +85,12 @@ Pair의 Remote Repository에 연결
 <img src="../images/BootCamp/Section01/[05]/pair7.png" width="60%" height="20%">
 <img src="../images/BootCamp/Section01/[05]/pair8.png" width="60%" height="20%">
 <img src="../images/BootCamp/Section01/[05]/pair9.png" width="60%" height="20%">
+
+<br>
+
+### 📚 Reference
+
+- [Git tutorial](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+- [Git 최초 설정](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
+- [VSC에서 Git 사용하기](https://promobile.tistory.com/378)
+- [How to Write a Git Commit](https://cbea.ms/git-commit/)
