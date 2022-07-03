@@ -31,6 +31,7 @@
 - [22-06-27 [03] Publishing_HTML, CSS](BootCamp/22-06-27[03]htmlCSS.md)
 - [22-06-28 [03] Publishing_Page layout, 와이어프레임](BootCamp/22-06-28[03]Pagelayout와이어프레임.md)
 - [22-06-30 [04] Linux 기초_CLI 기본 명령어](BootCamp/22-06-30[04]linuxBasicCmd.md)
+- [22-06-30 [04] Linux 기초_패키지, 권한, 환경변수](BootCamp/22-06-30[04]linuxBasicCmd.md)
 - [22-07-01 [05] Git 기초_개인 작업](BootCamp/22-07-01[05]gitBasic.md)
 - [22-07-01 [05] Git 기초_협업](BootCamp/22-07-01[05]gitExtension.md)
 
