@@ -3,7 +3,7 @@
 - [git 초기화 및 원격 설정](#git-repo-초기화-및-원격-설정)
 - [충돌 해결하기](#⚡️-충돌-해결하기)
 - [협업 시 Workflow](#🌟-pair-programming-workflow)
-- [Reference]()
+- [Reference](#📚-reference)
 
 ---
 
