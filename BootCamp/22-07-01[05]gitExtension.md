@@ -1,6 +1,12 @@
 # 22-07-01 [05] Git 기초_함께 작업 시 Workflow
 
+- [git 초기화 및 원격 설정](#git-repo-초기화-및-원격-설정)
+- [충돌 해결하기](#⚡️-충돌-해결하기)
+- [협업 시 Workflow](#🌟-pair-programming-workflow)
+
 ---
+
+## git repo 초기화 및 원격 설정
 
 ### git init
 
@@ -64,3 +70,17 @@ git status를 통해 충돌이 일어나는 파일을 확인하자.
 - Accept Incoming Change ➡️ Incoming 부분 채택
 - Accept Both Changes ➡️ 둘다 채택
 - Compare Changes ➡️ 충돌 일어나는 곳 비교
+
+<br>
+
+## 🌟 Pair Programming Workflow
+
+<img src="../images/BootCamp/Section01/[05]/pair1.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair2.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair3.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair4.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair5.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair6.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair7.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair8.png" width="60%" height="20%">
+<img src="../images/BootCamp/Section01/[05]/pair9.png" width="60%" height="20%">
