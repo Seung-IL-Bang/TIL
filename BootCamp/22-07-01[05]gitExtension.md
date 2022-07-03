@@ -6,17 +6,23 @@
 
 기존 디렉토리를 Git Repository로 변환
 
+<img src="../images/BootCamp/Section01/[05]/init.png" width="60%" height="20%">
+
 <Br>
 
-### git remote add origin <my 주소>
+### git remote add origin `<my 주소>`
 
 Local Repository를 나의 Remote Repository에 연결
 
+<img src="../images/BootCamp/Section01/[05]/remotemy.png" width="60%" height="20%">
+
 <Br>
 
-### git remote add pair <pair 주소>
+### git remote add pair `<pair 주소>`
 
 Pair의 Remote Repository에 연결
+
+<img src="../images/BootCamp/Section01/[05]/remotepair.png" width="60%" height="20%">
 
 <br>
 
@@ -26,13 +32,13 @@ Pair의 Remote Repository에 연결
 
 <Br>
 
-### git pull <shortname> <branch>
+### git pull `<shortname> <branch>`
 
 `<shortname> Remote Repository`의 해당 `branch` 내용을 Local Repository로 가져옴. 받아오는 내용은 자동으로 `병합(merge)` 된다.
 
 <Br>
 
-### 충돌 해결하기
+### ⚡️ 충돌 해결하기
 
 페어와 내가 동일한 라인을 수정한 파일이 있다면 ❓
 
@@ -42,11 +48,15 @@ Pair의 Remote Repository에 연결
 
 git status를 통해 충돌이 일어나는 파일을 확인하자.
 
+<img src="../images/BootCamp/Section01/[05]/conflict.png" width="60%" height="20%">
+
+<br>
+
 충돌이 일어나는 부분을 수정하고 `병합 커밋(merge commit)`을 생성해 주기 위해 파일을 `staging area`로 추가한다.
 
 `modify` ➡️ `add` ➡️ `commit` ➡️ `push`
  
-VSC를 사용하면 수정을 용이하게 할 수 있다.
+**🍯 VSC를 사용하면 수정을 용이하게 할 수 있다.**
 
 <img src="../images/BootCamp/Section01/[05]/mergeIDE.png">
 
