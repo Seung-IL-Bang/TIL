@@ -52,7 +52,7 @@ Pair의 Remote Repository에 연결
 
 💀 Automatic merge failed error가 터미널 화면에 출력될 것이다...
 
-git status를 통해 충돌이 일어나는 파일을 확인하자.
+`git status`를 통해 충돌이 일어나는 파일을 확인하자.
 
 <img src="../images/BootCamp/Section01/[05]/conflict.png" width="60%" height="20%">
 
