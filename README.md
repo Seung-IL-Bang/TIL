@@ -34,6 +34,7 @@
 - [22-06-30 [04] Linux 기초_패키지, 권한, 환경변수](BootCamp/22-06-30[04]linuxBasicCmd.md)
 - [22-07-01 [05] Git 기초_개인 작업](BootCamp/22-07-01[05]gitBasic.md)
 - [22-07-01 [05] Git 기초_협업](BootCamp/22-07-01[05]gitExtension.md)
+- [22-07-04 [06] Java 기초_변수와 타입, 문자열, 입출력]()
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
