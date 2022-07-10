@@ -1,4 +1,4 @@
-# 22-06-27 [03] 
+# 22-06-28 [03] Publighing_Page layout, Wireframe
 
 - [Page layout](#page-layout)
 - [Flexbox로 레이아웃 잡기](#flexbox로-레이아웃-잡기)
