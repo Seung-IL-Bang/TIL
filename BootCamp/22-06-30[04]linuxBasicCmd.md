@@ -5,6 +5,18 @@
 
 ---
 
+✏️ Goal of Study
+
+- 리눅스 터미널을 실행할 수 있다.
+- CLI를 이용한 작업과 GUI를 이용한 작업이 동일함을 이해할 수 있다
+- 리눅스 터미널에서 기본적인 명령어를 사용할 수 있다
+- 명령어를 사용할 때, 등장하는 키워드에 대해 이해할 수 있다.
+- 절대 경로와 상대 경로의 차이를 이해할 수 있다
+- 텍스트 에디터 nano를 이용해 파일을 수정하고, 저장할 수 있다.
+
+---
+
+
 ### 컴퓨터 제어방식
 
 - CLI(Command-Line Interface)
@@ -107,5 +119,30 @@ drwxr-xr-x
 
 <br>
 
+### 텍스트 에디터 nano
+
+**nano 실행**
+
+```markdown
+nano hello.java # hello.java를 nano에서 연다.
+nano # 그냥 실행할 수도 있다.
+```
+
+<img src="../images/BootCamp/Section01/[04]/nanoeditor.png">
+
+- (A) 파일 이름 안내
+- (B) 파일 편집 화면, 실제로 여기서 텍스트 파일을 편집한다.
+- (C) 사용에 필요한 각종 단축키
 
 
+**파일 저장**
+
+`^O WriteOut`
+
+### ⭐️ 터미널에서 에디터 사용 이유
+
+> AWS(Amazon Web Service)와 같은 원격 서버 환경에서 원격으로 텍스트 파일을 편집해야 하는 경우 CLI는 매우 유용하기 때문이다. 따라서 터미널에서 자유자재로 다룰 수 있는 에디터가 하나쯤은 있어야 한다.
+
+<br>
+
+터미널 에디터 추천 👉 [완전 초보를 위한 vim](https://nolboo.kim/blog/2016/11/15/vim-for-beginner/)
