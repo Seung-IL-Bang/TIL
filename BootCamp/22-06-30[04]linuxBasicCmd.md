@@ -6,7 +6,7 @@
 
 ---
 
-✏️ Goal of Study
+## ✏️ Goal of Study
 
 - 리눅스 터미널을 실행할 수 있다.
 - CLI를 이용한 작업과 GUI를 이용한 작업이 동일함을 이해할 수 있다

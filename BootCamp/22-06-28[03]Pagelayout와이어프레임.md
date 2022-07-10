@@ -7,7 +7,7 @@
 
 
 ---
-### ✏️ Goal of study
+## ✏️ Goal of study
 
 **page layout**
 
