@@ -37,6 +37,7 @@
 - [22-07-01 [05] Git 기초_협업](BootCamp/22-07-01[05]gitExtension.md)
 - [22-07-04 [06] Java 기초_변수와 타입, 문자열, 입출력]()
 - [22-07-11 [08] OOP_상속](BootCamp/22-07-11[08]OOP상속.md)
+- [22-07-11 [08] OOP_캡슐화](BootCamp/22-07-11[08]OOP캡슐화.md)
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
