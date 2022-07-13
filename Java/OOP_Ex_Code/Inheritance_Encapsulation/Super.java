@@ -23,3 +23,8 @@ class Lower extends Upper {
         System.out.println("super.count = " + super.count);
     }
 }
+
+/*출력값
+count = 15
+count = 15
+*/

@@ -21,3 +21,8 @@ class Student extends Human { // Human 클래스로부터 상속
         System.out.println("학생 클래스 생성자");
     }
 }
+
+/*출력값
+휴먼 클래스 생성자
+학생 클래스 생성자
+*/
