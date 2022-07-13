@@ -57,6 +57,7 @@
 - [OOP_Method Overriding(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Overriding.md) 
 - [OOP_super keyword(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superKeyword.md) 
 - [OOP_super() Method(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superMethod.md)  
+- [OOP_getter & setter(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/GetterSetter.md)
 
 
 ### Notion
