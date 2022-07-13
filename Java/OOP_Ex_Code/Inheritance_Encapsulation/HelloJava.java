@@ -1,4 +1,5 @@
 // 상위 클래스 Person ---> 하위 클래스 Programmer, Dancer, Singer
+package Inheritance_Encapsulation; // package declare for preventing error
 
 class Person {
     String name;
