@@ -1,5 +1,5 @@
+```java
 // Employee 클래스가 Address 클래스를 포함시킨다. Employee ⊃ Address
-package Inheritance_Encapsulation; // package declare for preventing error
 
 public class Employee {
     int id;
@@ -44,3 +44,5 @@ class Address {
 2 박해커
 도쿄 일본
 */
+
+```

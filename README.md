@@ -52,11 +52,11 @@
 - [HTTP/3](HTTP/HTTP3.md)
 
 ### Java
-- [OOP_Inheritance(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/HelloJava.java)
-- [OOP_Compsite(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Employee.java) 
-- [OOP_Method Overriding(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Main.java) 
-- [OOP_super keyword(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Super.java) 
-- [OOP_super() Method(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Test.java)  
+- [OOP_Inheritance(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Inheritance.md)
+- [OOP_Compsite(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Composite.md 
+- [OOP_Method Overriding(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Overriding.md) 
+- [OOP_super keyword(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superKeyword.md) 
+- [OOP_super() Method(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superMethod.md)  
 
 
 ### Notion

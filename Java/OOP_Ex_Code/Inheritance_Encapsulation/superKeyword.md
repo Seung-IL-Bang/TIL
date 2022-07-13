@@ -1,7 +1,5 @@
+```java
 // super 키워드에 대한 예제 코드
-
-package Inheritance_Encapsulation; // package declare for preventing error
-
 
 public class Super {
     public static void main(String[] args) {
@@ -29,3 +27,4 @@ count = 15
 count = 15
 count = 20
 */
+```

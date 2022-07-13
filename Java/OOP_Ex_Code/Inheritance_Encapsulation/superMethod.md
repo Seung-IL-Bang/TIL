@@ -1,7 +1,5 @@
+```java
 // super() 메서드 사용에 대한 예제 코드
-
-package Inheritance_Encapsulation; // package declare for preventing error
-
 
 public class Test {
     public static void main(String[] args) {
@@ -26,3 +24,5 @@ class Student extends Human { // Human 클래스로부터 상속
 휴먼 클래스 생성자
 학생 클래스 생성자
 */
+
+```
