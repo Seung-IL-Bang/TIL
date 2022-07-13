@@ -51,6 +51,7 @@
 - [HTTP/3](HTTP/HTTP3.md)
 
 ### Java
+- [OOP_Inheritance(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/HelloJava.java)
 
 
 ### Notion
