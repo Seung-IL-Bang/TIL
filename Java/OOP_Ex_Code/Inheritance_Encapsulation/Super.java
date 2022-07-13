@@ -27,4 +27,5 @@ class Lower extends Upper {
 /*출력값
 count = 15
 count = 15
+count = 20
 */
