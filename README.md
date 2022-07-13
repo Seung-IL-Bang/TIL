@@ -52,7 +52,7 @@
 
 ### Java
 - [OOP_Inheritance(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/HelloJava.java)
-- [OOP_Compsite(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Employee.java)
+- [OOP_Compsite(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Employee.java) 
 - [OOP_Method Overriding(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Main.java) 
 
 
