@@ -1,5 +1,6 @@
-package Inheritance_Encapsulation; // package declare for preventing error
+// Vehicle 클래스의 run 메서드에 대한 오버라이딩
 
+package Inheritance_Encapsulation; // package declare for preventing error
 
 public class Main {
     public static void main(String[] args) {
