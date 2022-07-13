@@ -1,3 +1,5 @@
+// 상위 클래스 Person ---> 하위 클래스 Programmer, Dancer, Singer
+
 class Person {
     String name;
     int age;
