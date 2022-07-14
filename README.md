@@ -38,6 +38,7 @@
 - [22-07-04 [06] Java 기초_변수와 타입, 문자열, 입출력]()
 - [22-07-11 [08] OOP_상속](BootCamp/22-07-11[08]OOP상속.md)
 - [22-07-11 [08] OOP_캡슐화](BootCamp/22-07-11[08]OOP캡슐화.md)
+- [22-07-12 [08] OOP_다형성](BootCamp/22-07-12[08]OOP다형성.md)
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
@@ -58,6 +59,7 @@
 - [OOP_super keyword(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superKeyword.md) 
 - [OOP_super() Method(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superMethod.md)  
 - [OOP_getter & setter(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/GetterSetter.md)
+- [OOP_참조변수의 type Casting(예제 코드)](Java/OOP_Ex_Code/Polymorphism_Abstraction/typeCasting.md)
 
 
 ### Notion
