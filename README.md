@@ -62,6 +62,8 @@
 - [OOP_super() Method(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/superMethod.md)  
 - [OOP_getter & setter(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/GetterSetter.md)
 - [OOP_참조변수의 type Casting(예제 코드)](Java/OOP_Ex_Code/Polymorphism_Abstraction/typeCasting.md)
+- [Generic Class (예제 코드)](Java/OOP_Ex_Code/Collection_Generic/genericClass.md)
+- [Restricted Generic (예제 코드)](Java/OOP_Ex_Code/Collection_Generic/restrictedGeneric.md)
 - [Collection_ArrayList (예제 코드)](Java/Collection_Ex_Code/List/ArrayList.md)
 - [Collection_LinkedList (예제 코드)](Java/Collection_Ex_Code/List/LinkedList.md)
 - [Collection_HashSet (예제 코드)](Java/Collection_Ex_Code/Set/HashSet.md)
