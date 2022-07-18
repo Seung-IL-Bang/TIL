@@ -41,6 +41,7 @@
 - [22-07-12 [08] OOP_다형성](BootCamp/22-07-12[08]OOP다형성.md)
 - [22-07-14 [09] Collection_제네릭](BootCamp/22-07-14[09]컬렉션_제네릭.md)
 - [22-07-14 [09] Collection_프레임워크](BootCamp/22-07-14[09]컬렉션프레임워크.md)
+- [22-07-18 [10] Effective](BootCamp/22-07-18[10]javaEffective.md) 
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
