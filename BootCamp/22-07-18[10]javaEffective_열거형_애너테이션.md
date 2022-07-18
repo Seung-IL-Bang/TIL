@@ -1,4 +1,4 @@
-# 22-07-18 [10] Java Effective
+# 22-07-18 [10] Java Effective_열거형(Enum), 애너테이션(Annotation)
 
 ---
 
