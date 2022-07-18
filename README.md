@@ -67,6 +67,7 @@
 - [Collection_ArrayList (예제 코드)](Java/Collection_Ex_Code/List/ArrayList.md)
 - [Collection_LinkedList (예제 코드)](Java/Collection_Ex_Code/List/LinkedList.md)
 - [Collection_HashSet (예제 코드)](Java/Collection_Ex_Code/Set/HashSet.md)
+- [Enum (예제 코드)](Java/Effective_Ex_Code/enum.md)
 
 
 ### Notion
