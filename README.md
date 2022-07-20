@@ -6,7 +6,7 @@
 
 * 그 날 배운 것 그날 작성
 * 꾸준히
-* 테스트 
+
 
 ## Categories
 * [Book](#book) 
