@@ -85,6 +85,7 @@ arr3 output : null
     <summary>ToDo ❌</summary>
 
 - [x] Test Clear!
+- [x] CheckPoint 작성! 
 </details>
 
 <br>
@@ -103,4 +104,13 @@ class Solution {
 }
 ```
 </details>
+
+<br>
+
+---
+
+### CheckPoint ✅
+
+- [x] HashMap 선언과 정의
+- [x] Map 인터페이스 메서드 `put(Object key, Object value)`
 
