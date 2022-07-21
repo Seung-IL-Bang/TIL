@@ -1,8 +1,9 @@
 # transformFirstAndLast
 
-### 문제
+### 문제 
+`난이도: 🟢⚫️⚫️⚫️⚫️`
 
-배열을 입력받아 차례대로 배열의 첫 요소와 마지막 요소를  키와 값으로 하는 HashMap을 리턴해야 합니다.
+배열을 입력받아 차례대로 배열의 첫 요소와 마지막 요소를 각각 키와 값으로 하는 HashMap을 리턴해야 합니다.
 
 <br>
 
@@ -41,8 +42,6 @@ System.out.println(output); // --> { Kevin : 'Spacey' }
 ---
 
 ### Test
-
-난이도: 하
 
 - [x] 1 회 Clear
 - [ ] 2 
