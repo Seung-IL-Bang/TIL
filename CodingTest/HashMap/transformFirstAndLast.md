@@ -39,6 +39,14 @@ System.out.println(output); // --> { Kevin : 'Spacey' }
 ```
 
 ---
+
+Test
+
+난이도: 하
+
+- [x] 1 회 Clear
+- [ ] 2 
+
 ```java
 import java.util.HashMap;
 
@@ -65,12 +73,22 @@ class Solution {
 
 <br>
 
-테스트 통과시 출력문
+Test 통과시 출력문
 ```java
 arr1 output : {Queen=Beyonce}
 arr2 output : {Kevin=Spacey}
 arr3 output : null
 ```
+
+<br>
+
+<details>
+    <summary>ToDo ❌</summary>
+
+- [x] Test Clear!
+</details>
+
+<br>
 
 <details>
     <summary>Solution</summary>
@@ -86,3 +104,4 @@ class Solution {
 }
 ```
 </details>
+
