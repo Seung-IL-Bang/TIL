@@ -12,6 +12,7 @@
 * [Book](#book) 
 * [BootCamp](#bootcamp)
 * [Cloud](#cloud) 
+* [CodingTest](#codingtest)
 * [gRPC](#grpc)
 * [HTTP](#http)
 * [Java](#java)
@@ -47,6 +48,9 @@
 
 ### Cloud
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
+
+### CodingTest
+- [HashMap](CodingTest/HashMap)
 
 ### gRPC
 - [Comparison of gRPC services and HTTP APIs](gRPC/Comparison%20of%20gRPC%20services%20and%20HTTP%20APIs.md)
