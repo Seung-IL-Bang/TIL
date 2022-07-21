@@ -50,7 +50,7 @@ System.out.println(output); // --> { Kevin : 'Spacey' }
 ```java
 import java.util.HashMap;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         String[] arr1 = new String[]{"Queen", "Elizabeth", "Of Hearts", "Beyonce"};
         String[] arr2 = new String[]{"Kevin", "Bacon", "Love", "Hart", " Costner", "Spacey"};
