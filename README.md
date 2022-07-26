@@ -52,6 +52,7 @@
 
 ### CodingTest
 - [HashMap](CodingTest/HashMap) 
+- [Math](CodingTest/Math)
 - [Recursion](CodingTest/Recursion)
 
 ### gRPC
