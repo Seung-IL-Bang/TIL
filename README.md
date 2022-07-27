@@ -13,6 +13,7 @@
 * [BootCamp](#bootcamp)
 * [Cloud](#cloud) 
 * [CodingTest](#codingtest)
+* [Error](#error)
 * [gRPC](#grpc)
 * [HTTP](#http)
 * [Java](#java)
@@ -54,6 +55,10 @@
 - [HashMap](CodingTest/HashMap) 
 - [Math](CodingTest/Math)
 - [Recursion](CodingTest/Recursion)
+
+### Error
+- [doubleToInt](Error/doubleToInt.md)
+- [u0008](Error/u0008.md)
 
 ### gRPC
 - [Comparison of gRPC services and HTTP APIs](gRPC/Comparison%20of%20gRPC%20services%20and%20HTTP%20APIs.md)
