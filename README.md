@@ -57,8 +57,11 @@
 - [Recursion](CodingTest/Recursion)
 
 ### Error
-- [doubleToInt](Error/doubleToInt.md)
-- [u0008](Error/u0008.md)
+
+- [exception](Error/exception/)
+- [illegal](Error/illegal/)
+- [incompatible types](Error/incompatibleTypes/)
+  
 
 ### gRPC
 - [Comparison of gRPC services and HTTP APIs](gRPC/Comparison%20of%20gRPC%20services%20and%20HTTP%20APIs.md)
