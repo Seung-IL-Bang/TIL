@@ -54,6 +54,7 @@
 ### CodingTest
 - [HashMap](CodingTest/HashMap) 
 - [Math](CodingTest/Math)
+- [Permutation](CodingTest/permutation/)
 - [Recursion](CodingTest/Recursion)
 
 ### Error
