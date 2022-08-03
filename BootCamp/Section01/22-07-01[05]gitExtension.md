@@ -13,7 +13,7 @@
 
 기존 디렉토리를 Git Repository로 변환
 
-<img src="../images/BootCamp/Section01/[05]/init.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/init.png" width="60%" height="20%">
 
 <Br>
 
@@ -21,7 +21,7 @@
 
 Local Repository를 나의 Remote Repository에 연결
 
-<img src="../images/BootCamp/Section01/[05]/remotemy.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/remotemy.png" width="60%" height="20%">
 
 <Br>
 
@@ -29,7 +29,7 @@ Local Repository를 나의 Remote Repository에 연결
 
 Pair의 Remote Repository에 연결
 
-<img src="../images/BootCamp/Section01/[05]/remotepair.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/remotepair.png" width="60%" height="20%">
 
 <br>
 
@@ -55,7 +55,7 @@ Pair의 Remote Repository에 연결
 
 `git status`를 통해 충돌이 일어나는 파일을 확인하자.
 
-<img src="../images/BootCamp/Section01/[05]/conflict.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/conflict.png" width="60%" height="20%">
 
 <br>
 
@@ -65,7 +65,7 @@ Pair의 Remote Repository에 연결
  
 **🍯 VSC를 사용하면 수정을 용이하게 할 수 있다.**
 
-<img src="../images/BootCamp/Section01/[05]/mergeIDE.png">
+<img src="../../images/BootCamp/Section01/[05]/mergeIDE.png">
 
 - Accept Current Change ➡️ Current 부분 채택
 - Accept Incoming Change ➡️ Incoming 부분 채택
@@ -76,15 +76,15 @@ Pair의 Remote Repository에 연결
 
 ## Pair Programming Workflow
 
-<img src="../images/BootCamp/Section01/[05]/pair1.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair2.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair3.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair4.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair5.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair6.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair7.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair8.png" width="60%" height="20%">
-<img src="../images/BootCamp/Section01/[05]/pair9.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair1.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair2.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair3.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair4.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair5.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair6.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair7.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair8.png" width="60%" height="20%">
+<img src="../../images/BootCamp/Section01/[05]/pair9.png" width="60%" height="20%">
 
 <br>
 

@@ -70,7 +70,7 @@
 - UAC는 시스템 설정을 임의로 변경하려는 악성코드가 실행될 때, 접근 권한을 막아 사용자를 보호한다.
 - 하나의 PC에 여러 사용자를 등록하여, 여러 PC를 사용하는 것처럼 이용 가능하다. 다른 사용자의 영역을 침범할 수 없다.
 
-<img src="../images/BootCamp/Section01/[04]/UAC.png" width=80% height=20%>
+<img src="../../images/BootCamp/Section01/[04]/UAC.png" width=80% height=20%>
 
 <br>
 
@@ -126,6 +126,6 @@ whoami
 
 <br>
 
-<img src="../images/BootCamp/Section01/[04]/root.png" width=80% height=20%>
+<img src="../../images/BootCamp/Section01/[04]/root.png" width=80% height=20%>
 
 `sudo`를 이용해 생성한 폴더의 소유자는 루트이다. 즉, 관리자 권한으로 생성되었다는 뜻이다. 반면에 `sudo`를 사용하지 않은 폴더는 사용자 소유의 폴더이다.

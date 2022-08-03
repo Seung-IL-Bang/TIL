@@ -129,7 +129,7 @@ nano hello.java # hello.java를 nano에서 연다.
 nano # 그냥 실행할 수도 있다.
 ```
 
-<img src="../images/BootCamp/Section01/[04]/nanoeditor.png">
+<img src="../../images/BootCamp/Section01/[04]/nanoeditor.png">
 
 - (A) 파일 이름 안내
 - (B) 파일 편집 화면, 실제로 여기서 텍스트 파일을 편집한다.
