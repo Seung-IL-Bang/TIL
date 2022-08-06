@@ -40,14 +40,35 @@ System.out.println(Arrays.toString(output)); // --> [3, 2, 1]
 ### Test
 
 ```java
+import java.util.*;
 
+public class Test {
+    public static void main(String[] args){
+        Solution solution = new Solution();
+        int[] test = solution.reverseArr(new int[]{1,2,3,4});
+        System.out.println("[test01] {1,2,3,4} -> " + Arrays.toString(test));
+        test = solution.reverseArr(new int[]{-2,-1,0,1,2});
+        System.out.println("[test02] {-2,-1,0,1,2} -> " + Arrays.toString(test));
+        test = solution.reverseArr(new int[]{});
+        System.out.println("[test02] {} -> " + Arrays.toString(test));
+
+    }
+}
+class Solution {
+    public int[] reverseArr(int[] arr){
+        // TODO:
+
+    }
+}
 ```
 
 <br>
 
 Test 통과시 출력문
 ```java
-
+[test01] {1,2,3,4} -> [4, 3, 2, 1]
+[test02] {-2,-1,0,1,2} -> [2, 1, 0, -1, -2]
+[test03] {} -> []
 ```
 
 <br>
@@ -55,8 +76,8 @@ Test 통과시 출력문
 <details>
     <summary>ToDo ⭕️</summary>
 
-- [ ] Test Clear!
-- [ ] CheckPoint 작성! 
+- [x] Test Clear!
+- [x] CheckPoint 작성! 
 </details>
 
 <br>
@@ -65,7 +86,20 @@ Test 통과시 출력문
     <summary>Solution</summary>
 
 ```java
+class Solution {
+    public int[] reverseArr(int[] arr){
+        // TODO:
+        if(arr.length == 0) return arr;
+        int[] head = Arrays.copyOfRange(arr, arr.length - 1, arr.length);
+        int[] tail = reverseArr(Arrays.copyOfRange(arr, 0, arr.length - 1));
+        int[] dest = new int[head.length + tail.length];
 
+        System.arraycopy(head, 0, dest, 0, head.length);
+        System.arraycopy(tail, 0, dest, head.length, tail.length);
+
+        return dest;
+    }
+}
 ```
 </details>
 
@@ -74,5 +108,7 @@ Test 통과시 출력문
 ---
 
 ### CheckPoint ✅
-~~미작성~~
 
+- [x] `Arrays.toString()` vs `Obeject.toString()`
+- [x] `Arrays.copyOfRange(array, int from, int to)` -> return `array`
+- [x] `System.arraycopy(Object src, int srcPos, Object dest, int destPost, int length)` 
