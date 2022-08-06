@@ -1,4 +1,4 @@
-# convertListToObject
+# readVertically
 
 ### 문제 
 `난이도: 🟢🟢⚫️⚫️⚫️`
@@ -151,8 +151,9 @@ class Solution {
 
 ### CheckPoint ✅
 
-- [x] `char[]` default value is `\u0000` Not `null`
+- [x] `char[]` default value is `\u0000` Not `null` 👉 [Reference](https://stackoverflow.com/questions/9909333/whats-the-default-value-of-char)
 
 <p align="center"><img src="../../images/CodingTest/Array/charDefaultValue.png" width=60% height=20%></p>
 
 - [x] `String concatenation(문자열 접합) '+='`에 의한 자동 형변환 `String` + `char` -> `String` + `String`
+ 
