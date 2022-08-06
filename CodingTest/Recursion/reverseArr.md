@@ -74,7 +74,7 @@ Test 통과시 출력문
 <br>
 
 <details>
-    <summary>ToDo ⭕️</summary>
+    <summary>ToDo ❌</summary>
 
 - [x] Test Clear!
 - [x] CheckPoint 작성! 
