@@ -67,6 +67,7 @@
 - [Math](CodingTest/Math)
 - [Permutation](CodingTest/permutation/)
 - [Recursion](CodingTest/Recursion)
+- [String](CodingTest/String/)
 
 ### Error
 
