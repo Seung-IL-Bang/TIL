@@ -52,7 +52,7 @@
 - [22-07-29 [11] Section 01 기술 면접 회고](/BootCamp/Section01/22-07-20[11]기술면접.md)
 
 #### Section02
-- [22-08-03 [06] REST API & Postaman](BootCamp/Section02/22-08-03[06]RESTAPI.md)
+- [22-08-03 [06] REST API](BootCamp/Section02/22-08-03[06]RESTAPI.md)
 
 
 
@@ -68,6 +68,7 @@
 - [Math](CodingTest/Math)
 - [Permutation](CodingTest/permutation/)
 - [Recursion](CodingTest/Recursion)
+- [String](CodingTest/String/)
 
 ### Error
 
@@ -106,6 +107,7 @@
 
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
+- [Open API](OpenSource/OpenAPI.md)
 
 ### WebRTC
 - [WebRTC_Outline](WebRTC/WebRTC_Outline.md)
