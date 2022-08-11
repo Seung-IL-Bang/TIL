@@ -4,6 +4,7 @@
     <summary>ToDo⭕️</summary>
 
 - [ ] 본문 리팩터링
+- [ ] 내용 보강
 </details>
 
 <br>
