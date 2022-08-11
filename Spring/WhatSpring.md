@@ -69,3 +69,42 @@ Ex : 실제로 제작된 의자, 침대 등
 - @Controller
 
 스프링이 어떤 클래스 안에 어떤 메서드, 필드 애너테이션이 있는지 **런타임 시 분석**하는 것을 `리플렉션`이라고 한다.
+
+<br>
+
+what is MessagConverter? 
+
+Java Object와 Python Object 서로 다른 언어끼리 서로 다른 객체를 주고 받으면 통신에 어려움이 있다.
+
+중간 언어 -> Json! (어떤 언어에서든 이해하기 쉬운 데이터 표현 방법)
+
+Java -> Python 데이터 보낼 경우
+
+`Java Object` -> `Json` -> `Python Object`
+
+Python -> Java 데이터 보낼 경우
+
+`Python Object` -> `Json` -> `Java Object`
+
+위 동작처럼 `Json`으로 변환 또는 `Json`을 전달 받는 언어에 맞는 `Object`로 변환 해주는 역할을 `MessageConverter`가 맡는다. 스프링 프레임워크에서 `Jackson` 라이브러리로 존재한다.
+
+<br>
+
+BufferReader, BufferWriter
+
+1 바이트(8비트) : 통신 단위(영어권, 한 문자씩 끊어서 리딩 가능)
+
+각 나라별 언어권마다 표현해야되는 비트수가 다르다 보니, 통신에 제약이 생김 -> 통일성을 위해 유니코드 등장
+
+유니코드는 3byte로 인코딩되어 있다. 그래서 요즘은 전부 문자를 3byte로 인코딩하여 통신한다.
+
+BufferedReader로 가변길이의 문자열을 받을 수 있다.(byte 낭비 없이)
+
+BufferedWriter는 byte Stream 통신을 할 때 가변길이의 문자열을 전송해주는 기능이다. 그리고 BufferedWriter는 자바에서 내려쓰기의 제약이 있어 같은 기능을 하면서 내려쓰기까지 가능한 printWriter을 많이 사용한다.
+
+- @ResponseBody -> BufferedWriter
+- @RequestBody -> BufferedReader
+
+<br>
+
+스프링 부트가 나오면서 스프링 프레임워크를 사용하기 많이 편해졌다.
