@@ -17,8 +17,8 @@
 * [gRPC](#grpc)
 * [HTTP](#http)
 * [Java](#java)
-* [Notion](#notion)
 * [OpenSource](#opensource)
+* [Spring](#spring)
 * [WebRTC](#webrtc)
 
 ---
@@ -102,12 +102,12 @@
 - [Enum (예제 코드)](Java/Effective_Ex_Code/enum.md)
 - [Lambda (예제 코드)](Java/Effective_Ex_Code/lambda.md)
 
-
-### Notion
-
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
 - [Open API](OpenSource/OpenAPI.md)
+
+### Spring
+- [기초_스프링이란?](Spring/WhatSpring.md)
 
 ### WebRTC
 - [WebRTC_Outline](WebRTC/WebRTC_Outline.md)
