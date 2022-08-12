@@ -64,10 +64,12 @@
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
 
 ### CodingTest
-- [HashMap](CodingTest/HashMap) 
-- [Math](CodingTest/Math)
+- [Array](CodingTest/Array/)
+- [Character](CodingTest/Character/)
+- [HashMap](CodingTest/HashMap/) 
+- [Math](CodingTest/Math/)
 - [Permutation](CodingTest/permutation/)
-- [Recursion](CodingTest/Recursion)
+- [Recursion](CodingTest/Recursion/)
 - [String](CodingTest/String/)
 
 ### Error
