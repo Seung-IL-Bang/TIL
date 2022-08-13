@@ -122,6 +122,79 @@ class Player {
 ```
 객체지향으로 인해 `Player` table과 class의 괴리가 생김. JPA가 자동적으로 매핑하여 team에 teamId에 해당하는 team을 넣어줄 것이다.
 
+---
 
 
+JPA는 클래스를 먼저 만들고 클래스를 토대로 자동적으로 DB 테이블을 만든다. 
+
+```java
+class Car {
+    String naem;
+    String color;
+    Engine engine;
+}
+
+class Engine {
+    int id;
+    int power;
+}
+```
+
+위 자바 클래스를 JPA를 이용하여 아래와 같은 테이블이 자동적으로 만들어진다.
+
+| Car TABLE |        |       |          |
+| --------- | ------ | ----- | -------- |
+| id        | name   | color | engineId |
+| 1         | Bmw    | white | 2        |
+| 2         | Sonata | Black | 1        |
+
+| Engine TABLE |       |
+| ------------ | ----- |
+| id           | Power |
+| 1            | 2000  |
+| 2            | 4000  |
+
+위 같은 상황에서 `class Engine`에 생성 시간(timeStamp)을 새로 넣게되면 어떻게 될까? 
+
+```java
+class Car extends EntityDate{
+    String naem;
+    String color;
+    Engine engine;
+    // TimeStamp createDate; // 새로 추가 
+    // TimeStamp updateDate; // 새로 추가
+
+}
+class Engine extends EntityDate {
+    int id;
+    int power;
+    // TimeStamp createDate; // 새로 추가
+    // TimeStamp updateDate; // 새로 추가
+}
+
+class EntityDate {
+    TimeStamp createDate;
+    TimeStamp updateDate;
+}
+```
+
+JPA를 사용하면 TimeStamp를 일일이 추가 대신 TimeStamp를 가진 EntityDate 클래스를 만들고 TimeStampe가 필요한 클래스에 EntityDate 클래스를 상속시켜주면 DB에 자동적으로 연동된다.
+
+| Car TABLE |        |       |          |            |            |
+| --------- | ------ | ----- | -------- | ---------- | ---------- |
+| id        | name   | color | engineId | createDate | updateDate |
+| 1         | Bmw    | White | 2        | YYYY-MM-DD | ...        |
+| 2         | Sonata | Black | 1        | ...        | ...        |
+
+---
+
+`Spring` ∼ `JPA(inner : abstract Object)` ∼ `DB`
+
+이때 JPA가 쓸 수 있는 데이터베이스 프로그래밍 언어로 `MySQL` 같은 언어만 지원하는게 아니라 다양한 언어를 지원한다. 방언(dialect) Oracle, Maria, Postgre 등.
+
+JPA는 `추상화 객체`가 존재하여 사용하고 싶은 데이터 프로그래밍 언어로 DB에 연결가능하다. 사용하고 싶은 언어로 객체를 바꿔가며 사용한다. 즉 방언처리(여러가지 언어 지원)를 통해 데이터베이스에 다양한 언어로 접근 가능하다.
+
+---
+
+JPA는 처음 접하면 개념이 헷갈린다. 적응을 하면 편하고 쉽다. 데이터가 방대해질수록 더 어려워질 수도 있다.
 
