@@ -110,6 +110,8 @@
 
 ### Spring
 - [기초_스프링이란?](Spring/WhatSpring.md)
+- [JPA](Spring/WhatJPA.md)
+- [SpringBoot 동작 원리](Spring/SpringBootMechanism.md)
 
 ### WebRTC
 - [WebRTC_Outline](WebRTC/WebRTC_Outline.md)
