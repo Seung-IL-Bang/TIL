@@ -1,5 +1,13 @@
 # Chapter 1 스프링 프레임워크 소개
 
+- [스프링 프레임워크 소개](#11-소개) 
+- [스프링 모듈](#12-스프링-모듈)
+- [스프링 IoC 컨테이너](#13-스프링-ioc-컨테이너)
+- [스프링 장점](#14-스프링의-장점)
+
+
+---
+
 ### 1.1 소개
 
 `스프링 프레임워크`(줄여서 '스프링')는 자바 엔터프라이즈 애플리케이션 개발을 단순하게 해주는 오픈소스 애플리케이션 프레임워크다.
@@ -29,7 +37,7 @@
 
 위 스프링 모듈을 통해 웹 애플리케이션을 개발하고 데이터베이스에 접근하며, 트랜잭션을 관리하고 단위 테스트와 통합 테스트를 개발하는 등의 일을 할 수 있다.
 
-<p align="center"><img src="/Users/bang/TIL/images/Spring/배워서바로쓰는스프링프레임워크/ch01/springModuleDependency.jpeg" width=60% height=20%></p>
+<p align="center"><img src="images/Spring/배워서바로쓰는스프링프레임워크/ch01/springModuleDependency.jpeg" width=60% height=20%></p>
 
 스프링 중심에 핵심 컨테이너 그룹에 속한 모듈이 있고, 다른 모듈이 이 그룹에 의존한다. 다른 스프링 모듈에 AOP 기능을 제공하는 AOP와 계측 그룹도 핵심 컨테이너 그룹만큼 중요하다.
 
@@ -85,7 +93,7 @@ POJO에 해당하는 자바 클래스를 POJO 클래스라고 부른다.
 
 POJO 클래스는 프레임워크가 지정하는 인터페이스나 클래스를 구현 및 확장하지 않는 보통 자바 클래스를 뜻한다.
 
-<p align="center"><img src="/Users/bang/TIL/images/Spring/배워서바로쓰는스프링프레임워크/ch01/springContainerMechanism.jpeg" width=60% height=20%></p>
+<p align="center"><img src="images/Spring/배워서바로쓰는스프링프레임워크/ch01/springContainerMechanism.jpeg" width=60% height=20%></p>
 
 <br>
 
