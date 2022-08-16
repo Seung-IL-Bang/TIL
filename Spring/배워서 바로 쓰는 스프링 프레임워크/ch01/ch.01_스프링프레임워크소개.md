@@ -45,31 +45,31 @@
 
 ### 1.3 스프링 IoC 컨테이너
 
-`**의존 관계(Dependency)**`
+`의존 관계(Dependency)`
 
 객체가 다른 객체와 상호 작용하는 경우를 객체의 의존 관계라고 한다.
 
-`**DI(Dependency Injection)**`
+`DI(Dependency Injection)`
 
 DI는 객체 간의 의존 관계를 생성자 인수(Constructor argument)나 세터 메서드 인수(setter method argument)로 명시하고 객체를 생성할 때 생성자나 세터를 통해 의존 관계를 주입하는 방식을 따르는 **디자인 패턴**이다.
 
 의존하는 객체가 속한 클래스는 스프링의 어떤 인터페이스나 클래스를 구현하거나 확장하지 않는다는 점에 유의하자.
 
-`**스프링 컨테이너**`
+`스프링 컨테이너`
 
 스프링 IoC 컨테이너(이를 '스프링 컨테이너'라고도 한다)는 스프링 애플리케이션에 존재하는 객체를 생성하고 의존 관계를 주입하는 일을 담당한다.
 
-`**빈(Bean)**`
+`빈(Bean)`
 
 스프링 컨테이너가 생성하고 관리하는 애플리케이션 객체들을 빈(Bean)이라고 부른다.
 
 스프링 빈으로 설졍하려면 의존 관계를 생성자 인수로 받거나 세터 메서드 인수로 받게 코드를 작성해야 한다.
 
-`**IoC(Inversion Of Control)**`
+`IoC(Inversion Of Control)`
 
 의존 관계를 만들고 주입하는 책임은 애플리케이션의 객체가 아닌 스프링 컨테이너에 있어 DI를 제어의 역전(IoC)이라고도 부른다.
 
-`**설정 메타데이터(Configuration metadata)**`
+`설정 메타데이터(Configuration metadata)`
 
 스프링 기반 애플리케이션에서 애플리케이션 객체(Bean)와 그들의 의존 관계(Dependency)의 정보는 설정 메타데이터를 사용해 지정한다.
 
@@ -81,11 +81,11 @@ DI는 객체 간의 의존 관계를 생성자 인수(Constructor argument)나 �
 - 자바 애너테이션
 - 자바 코드
 
-`**Reflection API**`
+`Reflection API`
 
 스프링 컨테이너는 자바 리플렉션(Reflection) API를 사용해 객체를 만들고 의존 관계를 주입한다.
 
-`**POJO(Plain Old Java Object)**`
+`POJO(Plain Old Java Object)`
 
 스프링 컨테이너는 애플리케이션 객체에 추가 기능을 부여하고 애플리케이션 객체를 평범한 자바 객체(기존 자바 객체, POJO)로 모델링할 수 있다.
 
