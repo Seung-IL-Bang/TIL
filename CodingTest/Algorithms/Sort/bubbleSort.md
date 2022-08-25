@@ -145,6 +145,6 @@ class Solution {
 
 ### CheckPoint ✅
 
-- `Bubble Sort` 알고리즘
-- 이미 정렬된 배열을 입력으로 전달받는 경우 시간 단축 방법 -> Advanced 부분 참고
+- [x] `Bubble Sort` 알고리즘
+- [x] 이미 정렬된 배열을 입력으로 전달받는 경우 시간 단축 방법 -> Advanced 부분 참고
  
