@@ -106,7 +106,7 @@
 - [Lambda (예제 코드)](Java/Effective_Ex_Code/lambda.md)
 
 ### JavaScript
-- [What Is JavaScript?](JavaScript/WhatIsJavaScript.md)
+- [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
 
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
