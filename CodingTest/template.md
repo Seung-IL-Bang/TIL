@@ -78,5 +78,5 @@ Test 통과시 출력문
 
 ### CheckPoint ✅
 
--
+- [x] 
  
