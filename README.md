@@ -64,7 +64,9 @@
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
 
 ### CodingTest
+- [Algorithms](CodingTest/Algorithms/)
 - [Array](CodingTest/Array/)
+- [ArrayList](CodingTest/ArrayList/)
 - [Character](CodingTest/Character/)
 - [HashMap](CodingTest/HashMap/) 
 - [Math](CodingTest/Math/)
