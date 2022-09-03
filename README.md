@@ -92,6 +92,10 @@
 - [HTTP/3](HTTP/HTTP3.md)
 
 ### Java
+
+<details>
+    <summary>예제 코드</summary>
+
 - [OOP_Inheritance(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Inheritance.md)
 - [OOP_Compsite(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Composite.md) 
 - [OOP_Method Overriding(예제 코드)](Java/OOP_Ex_Code/Inheritance_Encapsulation/Overriding.md) 
@@ -106,6 +110,17 @@
 - [Collection_HashSet (예제 코드)](Java/Collection_Ex_Code/Set/HashSet.md)
 - [Enum (예제 코드)](Java/Effective_Ex_Code/enum.md)
 - [Lambda (예제 코드)](Java/Effective_Ex_Code/lambda.md)
+</details>
+
+<details>
+    <summary>Lambda</summary>
+
+- [01 람다식이란?](/Java/Lambda/Lambda03.md)
+- [02 람다식 작성하기](/Java/Lambda/Lambda02.md)
+- [03 람다식 예](/Java/Lambda/Lambda03.md)
+</details>
+
+<br>
 
 ### JavaScript
 - [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
