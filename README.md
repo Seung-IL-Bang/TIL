@@ -115,7 +115,7 @@
 <details>
     <summary>Lambda</summary>
 
-- [01 람다식이란?](/Java/Lambda/Lambda03.md)
+- [01 람다식이란?](/Java/Lambda/Lambda01.md)
 - [02 람다식 작성하기](/Java/Lambda/Lambda02.md)
 - [03 람다식 예](/Java/Lambda/Lambda03.md)
 </details>
