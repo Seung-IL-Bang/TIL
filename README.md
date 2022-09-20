@@ -120,6 +120,13 @@
 - [03 람다식 예](/Java/Lambda/Lambda03.md)
 </details>
 
+<details>
+    <summary>Stream</summary>
+
+- [01 스트림이란?](/Java/Stream/Stream01.md)
+
+</details>
+
 <br>
 
 ### JavaScript
