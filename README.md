@@ -130,6 +130,7 @@
     <summary>Stream</summary>
 
 - [01 스트림이란?](/Java/Stream/Stream01.md)
+- [02 스트림의 특징](/Java/Stream/Stream02.md)
 
 </details>
 
