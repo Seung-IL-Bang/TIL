@@ -30,7 +30,7 @@ List<String> sortedList = strStream.sorted().collect(Collectors.toList());
 
 ```java
 str.Stream.sorted().forEach(System.out::println);
-int numOfStr = strStream.count(); // Error : 스트림이 이미 닫혔음.
+int numOfStr = strStream.count(); // Error : 스트림이 이미 닫혔음(스트림의 요소를 모두 소모함).
 ```
 
 <br>
