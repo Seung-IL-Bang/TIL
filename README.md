@@ -131,6 +131,8 @@
 
 - [01 스트림이란?](/Java/Stream/Stream01.md)
 - [02 스트림의 특징](/Java/Stream/Stream02.md)
+- [03 스트림 만들기](/Java/Stream/Stream03.md)
+- [04 스트림 연산](/Java/Stream/Stream04.md)
 
 </details>
 
