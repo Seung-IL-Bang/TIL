@@ -16,6 +16,7 @@
 * [Error](#error)
 * [gRPC](#grpc)
 * [HTTP](#http)
+* [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [OpenSource](#opensource)
@@ -96,6 +97,9 @@
 - [HTTP/1.1](HTTP/HTTP1.1.md)
 - [HTTP/2](HTTP/HTTP2.md)
 - [HTTP/3](HTTP/HTTP3.md)
+
+### IntelliJ
+- [Shortcuts](IntelliJ/keyboardShortcuts.md)
 
 ### Java
 
