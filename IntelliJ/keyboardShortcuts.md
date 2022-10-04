@@ -5,4 +5,8 @@
 | cmd + opt + L   | 라인 재정렬                             |
 | cmd + shift + T | 클래스 테스트 케이스 자동 생성          |
 | cmd + shift + F | 전체 디렉토리에서 해당 검색어 파일 조회 |
+| cmd + opt + V   | 해당 라인 참조변수 자동 생성            |
+| opt + enter     | error에 해당하는 적절한 액션 추천       |
+| cmd + P         | 파라미터로 사용 가능한 옵션 조회        |
+| cmd + N         | Generate 기능                           |
 
