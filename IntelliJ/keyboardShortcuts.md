@@ -10,4 +10,7 @@
 | cmd + P         | 파라미터로 사용 가능한 옵션 조회        |
 | cmd + N         | Generate 기능                           |
 | cmd + opt + M   | Extract Method                          |
+| ctrl + O        | 생성자 오버라이딩 자동 생성             |
+
+
 
