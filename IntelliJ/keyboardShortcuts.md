@@ -9,4 +9,5 @@
 | opt + enter     | error에 해당하는 적절한 액션 추천       |
 | cmd + P         | 파라미터로 사용 가능한 옵션 조회        |
 | cmd + N         | Generate 기능                           |
+| cmd + opt + M   | Extract Method                          |
 
