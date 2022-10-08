@@ -12,6 +12,8 @@
 | cmd + opt + M   | Extract Method                                         |
 | ctrl + O        | 오버라이딩 또는 구현(impl)할 메서드 선택               |
 | cmd + opt + P   | 메서드 내부의 상수를 변수로 치환 및 파라미터 자동 추가 |
+| cme + E         | 최근 파일 검색                                         |
+
 
 
 
