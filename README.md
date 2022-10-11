@@ -155,7 +155,7 @@
 - [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
 
 ### Nginx
-- [Nginx 설치부터 실행까지 기본 명령어](/NginX/basicCmd.md)
+- [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
 
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
