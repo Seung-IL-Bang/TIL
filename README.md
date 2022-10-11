@@ -19,7 +19,7 @@
 * [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [NginX](#nginx)
+* [Nginx](#nginx)
 * [OpenSource](#opensource)
 * [Spring](#spring)
 * [WebRTC](#webrtc)
@@ -154,8 +154,8 @@
 ### JavaScript
 - [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
 
-### NginX
-- [NginX 설치부터 실행까지 기본 명령어](/NginX/basicCmd.md)
+### Nginx
+- [Nginx 설치부터 실행까지 기본 명령어](/NginX/basicCmd.md)
 
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
