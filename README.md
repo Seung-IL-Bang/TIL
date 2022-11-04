@@ -9,6 +9,7 @@
 
 
 ## Categories
+* [AWS](#aws) 
 * [Book](#book) 
 * [BootCamp](#bootcamp)
 * [Cloud](#cloud) 
@@ -25,6 +26,9 @@
 * [WebRTC](#webrtc)
 
 ---
+
+### AWS
+- [504 GateWay Time- Out](AWS/504GatewayTimeOut.md)
 
 ### Book
 - [이것이 코딩테스트다/ 파이썬 문법/ Number](Book/이것이%20코딩%20테스트다/파이썬문법/Number.md)
