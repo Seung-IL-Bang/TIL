@@ -56,3 +56,28 @@ DTO -> JSON (직렬화, Serialization)
 결과적으로 Controller 클래스가 늘어남에 따라 DTO 클래스가 두 배씩 늘어나는 단점이 있다.
 
 ✨ 보완 방법 : 공통된 멤버 변수의 추출 및 내부 클래스를 이용해서 어느 정도 개선이 가능
+
+<br>
+
+Ex. DTO Class (내부 클래스 사용)
+
+```java
+public class Dto {
+
+    @Getter
+    @AllArgsConstructor
+    public static class Post {
+        private String Title;
+        private String Contents;
+    }
+
+    @Getter
+    @Setter
+    @AllArgsConstructor
+    public static class Patch {
+        private Long Id;
+        private String Title;
+        private String Contents;
+    }
+}
+```
