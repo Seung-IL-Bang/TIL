@@ -29,6 +29,7 @@
 
 ### AWS
 - [504 GateWay Time- Out](AWS/504GatewayTimeOut.md)
+- [EBS 볼륨 크기 증가 후 EC2 시스템 파일에 적용](AWS/EBSvolumeUp.md)
 
 ### Book
 - [이것이 코딩테스트다/ 파이썬 문법/ Number](Book/이것이%20코딩%20테스트다/파이썬문법/Number.md)
