@@ -25,7 +25,7 @@ du <dir> # dir과 dir 내부에 있는 모든 dir의 용량 확인
 
 <p align="center"><img src="../images/AWS/EBSvolumeUp/systemInfo.png" width=60% height=20%></p>
 
-전체 8GB 중 72% 정도 사용 중에 있다. 메모리 역시 사용량이 86%... 메모리 부족 대안책으로 swap 공간을 활용해보자(~~나중에 관련 글 업로드 예정~~).
+전체 8GB 중 72% 정도 사용 중에 있다. 메모리 역시 사용량이 86%... 메모리 부족 대안책으로 [swap](./Swap.md) 공간을 활용해보자.
 
 <br>
 
