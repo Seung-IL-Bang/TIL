@@ -4,8 +4,8 @@
 ```gradle
 dependencies {
     ...
-    implementation 'org.mapstruct:mapstruct:1.4.2.Final'
-	annotationProcessor 'org.mapstruct:mapstruct-processor:1.4.2.Final'
+    implementation 'org.mapstruct:mapstruct:1.5.3.Final'
+	annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.3.Final'
     ...
 }
 ```
