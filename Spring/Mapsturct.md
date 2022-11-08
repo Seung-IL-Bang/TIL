@@ -1,6 +1,6 @@
 # MapStruct를 이용한 Mapper 자동 생성
 
-✅ MapStruct 의존 라이브러리 설정
+### ✅ MapStruct 의존 라이브러리 설정
 ```gradle
 dependencies {
     ...
