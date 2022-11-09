@@ -42,6 +42,8 @@ EC2에 웹 앱을 백그라운드로 실행시키고 있었다. 근데 간헐적
 
 <br>
 
++++ 보안) 위 방법들로도 해결이 안되어서 [swap](./Swap.md) 방법 시도하여 504 예방함.
+
 Reference 🌈
 
 - [Classic Load Balancer에 대한 유휴 연결 시간 초과 구성](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/config-idle-timeout.html)
