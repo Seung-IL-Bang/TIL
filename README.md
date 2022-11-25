@@ -9,23 +9,34 @@
 
 
 ## Categories
-* [AWS](#aws) 
-* [Book](#book) 
-* [BootCamp](#bootcamp)
-* [Cloud](#cloud) 
-* [CodingTest](#codingtest)
-* [Error](#error)
-* [gRPC](#grpc)
-* [HTTP](#http)
-* [IntelliJ](#intellij)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [Nginx](#nginx)
-* [OpenSource](#opensource)
-* [Spring](#spring)
-* [WebRTC](#webrtc)
+- [📝 TIL](#-til)
+  - [Rules](#rules)
+  - [Categories](#categories)
+    - [Apache](#apache)
+    - [AWS](#aws)
+    - [Book](#book)
+    - [BootCamp](#bootcamp)
+      - [Section01](#section01)
+      - [Section02](#section02)
+      - [Section03](#section03)
+      - [Section04](#section04)
+    - [Cloud](#cloud)
+    - [CodingTest](#codingtest)
+    - [Error](#error)
+    - [gRPC](#grpc)
+    - [HTTP](#http)
+    - [IntelliJ](#intellij)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Nginx](#nginx)
+    - [OpenSource](#opensource)
+    - [Spring](#spring)
+    - [WebRTC](#webrtc)
 
 ---
+
+### Apache
+- [Apache httpd를 통한 프론트 서버 구축](Apache/webServer.md)
 
 ### AWS
 - [504 GateWay Time- Out](AWS/504GatewayTimeOut.md)
