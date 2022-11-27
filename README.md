@@ -1,37 +1,31 @@
-# 📝 TIL
+# 📝 TIL <!-- omit in toc -->
 
 > Today I learned
 
-## Rules
+
+## Rules <!-- omit in toc -->
 
 * 그 날 배운 것 그날 작성
 * 꾸준히
 
 
-## Categories
-- [📝 TIL](#-til)
-  - [Rules](#rules)
-  - [Categories](#categories)
-    - [Apache](#apache)
-    - [AWS](#aws)
-    - [Book](#book)
-    - [BootCamp](#bootcamp)
-      - [Section01](#section01)
-      - [Section02](#section02)
-      - [Section03](#section03)
-      - [Section04](#section04)
-    - [Cloud](#cloud)
-    - [CodingTest](#codingtest)
-    - [Error](#error)
-    - [gRPC](#grpc)
-    - [HTTP](#http)
-    - [IntelliJ](#intellij)
-    - [Java](#java)
-    - [JavaScript](#javascript)
-    - [Nginx](#nginx)
-    - [OpenSource](#opensource)
-    - [Spring](#spring)
-    - [WebRTC](#webrtc)
+## Categories <!-- omit in toc -->
+- [Apache](#apache)
+- [AWS](#aws)
+- [Book](#book)
+- [BootCamp](#bootcamp)
+- [Cloud](#cloud)
+- [CodingTest](#codingtest)
+- [Error](#error)
+- [gRPC](#grpc)
+- [HTTP](#http)
+- [IntelliJ](#intellij)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Nginx](#nginx)
+- [OpenSource](#opensource)
+- [Spring](#spring)
+- [WebRTC](#webrtc)
 
 ---
 
@@ -52,7 +46,7 @@
 
 ### BootCamp
 
-#### Section01
+#### Section01 <!-- omit in toc -->
 - [22-06-23 [01] Learn How to Learn : 학습 방향 설정](BootCamp/Section01/22-06-23[01]학습방향.md)
 - [22-06-24 [02] Development 기초_컴퓨터와 프로그래밍 이해](BootCamp/Section01/22-06-24[02]컴퓨터와프로그래밍이해.md)
 - [22-06-24 [02] Development 기초_클라이언트와 서버 이해](BootCamp/Section01/22-06-24[02]웹클라이언트와웹서버.md)
@@ -71,12 +65,12 @@
 - [22-07-18 [10] Effective_열거형, 애너테이션](BootCamp/Section01/22-07-18[10]javaEffective_열거형_애너테이션.md) 
 - [22-07-29 [11] Section 01 기술 면접 회고](/BootCamp/Section01/22-07-20[11]기술면접.md)
 
-#### Section02
+#### Section02 <!-- omit in toc -->
 - [22-08-03 [06] REST API](BootCamp/Section02/22-08-03[06]RESTAPI.md)
 
-#### Section03
+#### Section03 <!-- omit in toc -->
 
-#### Section04
+#### Section04 <!-- omit in toc -->
 - [22-09-20 [01] HTTPS 암호화](/BootCamp/Section04/%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%88%EA%B8%B0%EC%B4%8801.md)
 - [22-09-20 [01] HTTPS 인증서](/BootCamp/Section04/%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%88%EA%B8%B0%EC%B4%8802.md)
 - [22-10-05 [06] What is Docker?](/BootCamp/Section04/docker01.md)
