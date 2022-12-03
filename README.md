@@ -2,7 +2,6 @@
 
 > Today I learned
 
-
 ## Rules <!-- omit in toc -->
 
 * 그 날 배운 것 그날 작성
@@ -42,6 +41,7 @@
 - [이것이 코딩테스트다/ 파이썬 문법/ List](Book/이것이%20코딩%20테스트다/파이썬문법/List.md)
 - [이것이 코딩테스트다/ 파이썬 문법/ String](Book/이것이%20코딩%20테스트다/파이썬문법/String.md)
 - [오늘도 개발자가 안 된다고 말했다.](Book/오늘도%20개발자가%20안%20된다고%20말했다/오늘도개발자가안된다고말했다.md)
+- [이펙티브 자바(Effective Java)](Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94(Effective%20Java)/)
 - [커리어 스킬](Book/커리어%20스킬/)
 
 ### BootCamp
