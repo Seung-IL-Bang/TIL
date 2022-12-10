@@ -170,6 +170,7 @@
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/Nginx/NginxBasicCmd.md)
+- [Nginx - 로드 밸런싱(로컬)](/Nginx/LoadBalancing.md)
 
 ### OpenSource
 - [License_Types](OpenSource/License_Types.md)
