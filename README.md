@@ -167,6 +167,9 @@
 
 ### JavaScript
 - [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
+- [How is Javascript Executed?](JavaScript/[01]%20Introduction/02HowIsJavaScriptExecuted.md)
+- [Dynamic & Weakly Type](JavaScript/[01]%20Introduction/03Dynamic&WeaklyType.md)
+- [Javascript Runs on Host Environment](JavaScript/[01]%20Introduction/04JavascriptRunsOnHostEnv.md)
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
