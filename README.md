@@ -205,6 +205,7 @@
 - [MapStruct를 이용한 Mapper 자동 생성](Spring/Mapsturct.md)
 
 ### SQL
+- [데이터 모델링의 이해](SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%EC%9D%B4%ED%95%B4.md)
 
 
 ### WebRTC
