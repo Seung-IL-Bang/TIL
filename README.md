@@ -210,6 +210,7 @@
 - [ERD(Entity Relationship Diagram)](SQL/ERD.md)
 - [Entity](SQL/Entity.md)
 - [Attribute](SQL/Attribute.md)
+- [Relationship](SQL/Relationship.md)
 
 
 ### WebRTC
