@@ -25,7 +25,7 @@
 
 각 엔티티에서 관계에 참여하는 수를 의미하며, 1:1, 1:M, M:N 형식으로 구분할 수 있다.
 
-<p align="center"><img src="../images/SQL/Cardinality.png" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/Cardinality.png" width=60% height=20%></p>
 
 <br>
 

@@ -22,7 +22,7 @@
 
 ### 엔티티, 인스턴스, 속성, 속성값의 관계
 
-<p align="center"><img src="../images/SQL/ModelingRelationship.png" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/ModelingRelationship.png" width=60% height=20%></p>
 
 - 한 개의 엔티티는 두 개 이상의 인스턴스를 갖는다.
 - 한 개의 인스턴스는 두 개 이상의 속성을 갖는다.

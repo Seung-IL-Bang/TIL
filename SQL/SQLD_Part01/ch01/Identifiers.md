@@ -33,7 +33,7 @@
 
 <br>
 
-<p align="center"><img src="../images/SQL/Identifers.png" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/Identifers.png" width=60% height=20%></p>
 
 <br>
 
@@ -44,7 +44,7 @@
 
 부모 엔티티의 식별자가 자식 엔티티의 주식별자가 되는 관계이다.
 
-<p align="center"><img src="../images/SQL/IdentificationRel.png" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/IdentificationRel.png" width=60% height=20%></p>
 
 <br>
 
@@ -52,4 +52,4 @@
 
 부모 엔티티의 식별자가 자식 엔티티의 주식별자가 아닌 일반 속성이 되는 관계이다.
 
-<p align="center"><img src="../images/SQL/NonIdentification.png" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/NonIdentification.png" width=60% height=20%></p>

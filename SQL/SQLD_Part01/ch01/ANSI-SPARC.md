@@ -1,12 +1,12 @@
 # ANSI-SPARC 아키텍처
 
-<p align="center"><img src="../images/SQL/ANSI-SPARC.jpeg" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/ANSI-SPARC.jpeg" width=60% height=20%></p>
 
 `ANSI-SPARC 아키텍처` 는 데이터베이스 관리 시스템(DBMS)의 추상적인 설계 표준이다.
 
 ANSI-SPARC 아키텍처는 스키마를 3단계 구조로 나누는데, 이렇게 분리하는 목적은 데이터베이스에 대한 사용자들의 관점과 데이터베이스가 실제로 표현되는 물리적인 방식을 분리하기 위함이다.
 
-<p align="center"><img src="../images/SQL/Architecture.jpeg" width=60% height=20%>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/Architecture.jpeg" width=60% height=20%>
 </p>
 
 ### 3 단계 스키마 구조

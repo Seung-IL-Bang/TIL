@@ -6,9 +6,9 @@
 
 ERD 표기법 중 가장 많이 쓰이는 `IE/Crow’s Foot` 표기법에 대해 알아보자.
 
-<p align="center"><img src="../images/SQL/ERD.jpeg" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/ERD.jpeg" width=60% height=20%></p>
 
-<p align="center"><img src="../iamges/../images/SQL/IE:Crow.jpeg" width=60% height=20%></p>
+<p align="center"><img src="../../images/../../images/SQL/SQLD_Part1/ch01/IE:Crow.jpeg" width=60% height=20%></p>
 
 <br>
 
