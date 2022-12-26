@@ -209,6 +209,7 @@
 - [ANSI-SPARC 아키텍처](SQL/ANSI-SPARC.md)
 - [ERD(Entity Relationship Diagram)](SQL/ERD.md)
 - [Entity](SQL/Entity.md)
+- [Attribute](SQL/Attribute.md)
 
 
 ### WebRTC
