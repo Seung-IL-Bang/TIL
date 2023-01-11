@@ -40,3 +40,28 @@ css 파일을 링크하는 대신 html 파일에 직접 스타일을 적용하�
   - 요소의 전역 속성인 style 속성에 직접 스타일을 작성하는 방식 (선택자 없음, 우선 순위 높음)
 - 내장 방식
   - \<head> 부분에 \<style>\</style> 내용으로 스타일을 작성하는 방식
+
+<br>
+
+`<title></title>`
+
+HTML 문서의 제목을 정의한다. 웹 브라우저 탭에 표시된다.
+
+<br>
+
+`<meta />`
+
+HTML 문서(웹 페이지)의 제작자, 내용, 키워드, 저자 같은 여러 정보를 검색 엔진이나 브라우저에게 제공한다.
+
+```html
+<!--meta 예시-->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+- charset: 문자 인코딩 방식
+- name: 정보의 종류
+- content: 정보의 값
+
+참고로 `viewport` 정보는 모바일 기기에만 해당된다.
