@@ -95,7 +95,8 @@
 <details>
     <summary>Concepts</summary>
     
-- [선택 정렬(Selection Sorting)](CodingTest/Sorting/selectionSort.md)
+- [선택 정렬(Selection Sorting)](CodingTest/Concepts/Sorting/selectionSort.md)
+- [삽입 정렬(Insertion Sorting)](CodingTest/Concepts/Sorting/insertionSort.md)
 </details>
 
 <details>
