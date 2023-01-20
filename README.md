@@ -92,15 +92,26 @@
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
 
 ### CodingTest
-- [Algorithms](CodingTest/Algorithms/)
-- [Array](CodingTest/Array/)
-- [ArrayList](CodingTest/ArrayList/)
-- [Character](CodingTest/Character/)
-- [HashMap](CodingTest/HashMap/) 
-- [Math](CodingTest/Math/)
-- [Permutation](CodingTest/permutation/)
-- [Recursion](CodingTest/Recursion/)
-- [String](CodingTest/String/)
+<details>
+    <summary>Concepts</summary>
+    
+- [선택 정렬(Selection Sorting)](CodingTest/Sorting/selectionSort.md)
+</details>
+
+<details>
+    <summary>Java Solution</summary>
+
+- [Algorithms](CodingTest/JavaSolution/Algorithms/)
+- [Array](CodingTest/JavaSolution/Array/)
+- [ArrayList](CodingTest/JavaSolution/ArrayList/)
+- [Character](CodingTest/JavaSolution/Character/)
+- [HashMap](CodingTest/JavaSolution/HashMap/) 
+- [Math](CodingTest/JavaSolution/Math/)
+- [Permutation](CodingTest/JavaSolution/permutation/)
+- [Recursion](CodingTest/JavaSolution/Recursion/)
+- [String](CodingTest/JavaSolution/String/)
+</details>
+<br>
 
 ### Computer Science
 
