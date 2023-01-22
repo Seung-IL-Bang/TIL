@@ -210,6 +210,7 @@
 - [Instantiating Class](Kotlin/InstantiatingClasses.md)
 - [Referential Equality and Structural Equality](Kotlin/ReferentialAndStructuralEquality.md)
 - [Difference between Scanner And BufferedReader](Kotlin/DiffBetweenScAndBr.md)
+- [Kotlin.Collections.groupBy](Kotlin/collections/groupBy.md)
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
