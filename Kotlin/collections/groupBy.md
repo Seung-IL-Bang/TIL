@@ -1,6 +1,6 @@
 # kotlin.colletions.groupBy
 
-fun <T, K> Collections<out T>.groupBy(
+fun <T, K> Collections\<out T>.groupBy(
     keySelector: (T) -> K
 ): Map<K, List<T>>
 

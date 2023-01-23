@@ -1,6 +1,6 @@
 # Kotlin.Collections.MaxByOrNull
 
-inline fun <T, R : Comparable<R>> Collections<out T>.maxByOrNull(
+inline fun <T, R : Comparable\<R>> Collections\<out T>.maxByOrNull(
     selector: (T) -> R
 ): T?
 
