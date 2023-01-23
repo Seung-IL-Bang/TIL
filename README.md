@@ -212,6 +212,7 @@
 - [Difference between Scanner And BufferedReader](Kotlin/DiffBetweenScAndBr.md)
 - [Kotlin.Collections.groupBy](Kotlin/collections/groupBy.md)
 - [Kotlin.Collections.mapValues](Kotlin/collections/mapValues.md)
+- [Kotlin.Collections.maxByOrNull](Kotlin/collections/maxByOrNull.md)
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
