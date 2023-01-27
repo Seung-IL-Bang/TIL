@@ -98,6 +98,7 @@
 - [선택 정렬(Selection Sorting)](CodingTest/Concepts/Sorting/selectionSort.md)
 - [삽입 정렬(Insertion Sorting)](CodingTest/Concepts/Sorting/insertionSort.md)
 - [퀵 정렬(Quick Sorting)](CodingTest/Concepts/Sorting/quickSort.md)
+- [누적합(Prefix Sum)](CodingTest/Concepts//PrefixSum/prefixSum.md)
 </details>
 
 <details>
