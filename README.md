@@ -217,6 +217,7 @@
 - [Kotlin.Collections.maxByOrNull](Kotlin/collections/maxByOrNull.md)
 - [Kotlin.Collections.filter](Kotlin/collections/filter.md)
 - [Kotlin.Collections.sortedWith](Kotlin/collections/sortedWith.md)
+- [Kotlin.Collections.first](Kotlin/collections/first.md)
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
