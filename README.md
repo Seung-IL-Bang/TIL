@@ -105,6 +105,8 @@
 - [그래프 탐색 - BFS](CodingTest/Concepts/Graph/BFS.md)
 - [트리 개념(Tree Concepts)](CodingTest/Concepts/Tree/Theory.md)
 - [트리 순회(Tree Traversal)](CodingTest/Concepts/Tree/Traversal.md)
+- [완전 탐색 알고리즘(Brute-Force Algorithm](CodingTest/Concepts/BruteForce/bruteForceAlgorithm.md)
+- [백트래킹(BackTracking)](CodingTest/Concepts/Backtracking/backTracking.md)
 </details>
 
 <details>
