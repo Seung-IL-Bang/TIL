@@ -1,4 +1,4 @@
-# 8. 백트래킹(BackTracking)
+# 백트래킹(BackTracking)
 
 ### Concept
 

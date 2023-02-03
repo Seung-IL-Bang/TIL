@@ -1,4 +1,4 @@
-# 3. 그래프 이론 (Graph Theory)
+# 그래프 이론 (Graph Theory)
 
 ### Concept
 

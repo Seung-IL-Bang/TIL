@@ -1,4 +1,4 @@
-# 7. 완전 탐색 알고리즘(Brute-Force Algorithm)
+# 완전 탐색 알고리즘(Brute-Force Algorithm)
 
 ### Concept
 

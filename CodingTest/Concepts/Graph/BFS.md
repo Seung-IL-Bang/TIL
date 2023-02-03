@@ -1,4 +1,4 @@
-# 5. 그래프 탐색 BFS(Breadth First Search)
+# 그래프 탐색 BFS(Breadth First Search)
 
 ### Concepts
 

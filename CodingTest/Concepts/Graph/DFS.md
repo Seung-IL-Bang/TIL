@@ -1,4 +1,4 @@
-# 4. 그래프 탐색  DFS(Depth First Search)
+# 그래프 탐색  DFS(Depth First Search)
 
 ### Concepts
 

@@ -1,4 +1,4 @@
-# 2. 구현(Implementation) - 시뮬레이션(Simulation)
+# 구현(Implementation) - 시뮬레이션(Simulation)
 
 ### 구현이란?
 
