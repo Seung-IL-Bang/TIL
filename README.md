@@ -227,7 +227,8 @@
 - [Kotlin.Collections.sortedWith](Kotlin/collections/sortedWith.md)
 - [Kotlin.Collections.first](Kotlin/collections/first.md)
 - [Safe Call With let function](Kotlin/syntax/safeCallWithLet.md)
-- [Decimal Number <-> Binary Number](Kotlin/syntax/intToBinary.md)
+- [Decimal Number <-> Binary Number](Kotlin/syntax/bitwise/intToBinary.md)
+- [bitwise operators to check]()
 
 ### Nginx
 - [Nginx 설치부터 실행까지 기본 명령어](/NginX/NginxBasicCmd.md)
