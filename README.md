@@ -92,8 +92,6 @@
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
 
 ### CodingTest
-<details>
-    <summary>Concepts</summary>
     
 - [선택 정렬(Selection Sorting)](CodingTest/Concepts/Sorting/selectionSort.md)
 - [삽입 정렬(Insertion Sorting)](CodingTest/Concepts/Sorting/insertionSort.md)
@@ -108,7 +106,7 @@
 - [완전 탐색 알고리즘(Brute-Force Algorithm](CodingTest/Concepts/BruteForce/bruteForceAlgorithm.md)
 - [백트래킹(BackTracking)](CodingTest/Concepts/Backtracking/backTracking.md)
 - [비트마스킹(BitMasking)](CodingTest/Concepts/BitMasking/bitMasking.md)
-</details>
+  
 
 <details>
     <summary>Java Solution</summary>
