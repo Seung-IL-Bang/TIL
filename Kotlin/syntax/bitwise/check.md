@@ -16,7 +16,7 @@ println(set.contains(4)) // outputs "false"
 val set = setOf(1, 2, 4)
 val x = 5
 for (num in set) {
-    if (result and num == num) {
+    if (x and (1 shl num) != 0) {
         println("$x contains $num")
     }
 }
