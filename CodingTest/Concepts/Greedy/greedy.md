@@ -1,4 +1,4 @@
-# 10. 그리디(Greedy)
+# 그리디(Greedy)
 
 ### Concept
 
