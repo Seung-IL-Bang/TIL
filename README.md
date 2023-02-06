@@ -107,6 +107,7 @@
 - [백트래킹(BackTracking)](CodingTest/Concepts/Backtracking/backTracking.md)
 - [비트마스킹(BitMasking)](CodingTest/Concepts/BitMasking/bitMasking.md)
 - [그리디(Greedy)](CodingTest/Concepts/Greedy/greedy.md)
+- [라인 스위핑(Line Sweeping)](CodingTest/Concepts/Sweeping/lineSweep.md)
   
 
 <details>
