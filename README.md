@@ -131,6 +131,8 @@
 ### CSS
 - [CSS 개요](CSS/CSSBasic.md)
 - [CSS 선택자](CSS/Selectors.md)
+- [스타일 상속](CSS/inherit.md)
+- [선택자 우선순위](CSS/Priority.md)
 
 ### Docker
 - [Docker 명령어 모음](Docker/dockerCmd.md)
