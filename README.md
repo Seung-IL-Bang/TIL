@@ -111,6 +111,7 @@
 - [라인 스위핑(Line Sweeping)](CodingTest/Concepts/Sweeping/lineSweep.md)
 - [투 포인터(Two Pointers)](CodingTest/Concepts/TwoPointers/twoPointers.md)
 - [동적 프로그래밍(Dynamic Programming)](CodingTest/Concepts/DP/dynamicProgramming.md)
+- [이분 탐색(Binary Search)](CodingTest/Concepts/BinarySearch/binarySearch.md)
   
 
 <details>
