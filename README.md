@@ -115,6 +115,7 @@
 - [이분 탐색(Binary Search)](CodingTest/Concepts/BinarySearch/binarySearch.md)
 - [최장 증가 부분 수열(LIS, Longest Increasing Subsequence)](CodingTest/Concepts/LIS/LongestIncreasingSubsequence.md)
 - [최단 경로(Shortest Paths)](CodingTest/Concepts/ShortestPaths/shortestPaths.md)
+- [세그먼트 트리(Segment Tree)](CodingTest/Concepts/Tree/SegmentTree.md)
 - [시간 복잡도 비교 그래프](CodingTest/BigO.md)
   
 
