@@ -258,6 +258,17 @@ CSS Properties ▼
 - [How is Javascript Executed?](JavaScript/[01]%20Introduction/02HowIsJavaScriptExecuted.md)
 - [Dynamic & Weakly Type](JavaScript/[01]%20Introduction/03Dynamic&WeaklyType.md)
 - [Javascript Runs on Host Environment](JavaScript/[01]%20Introduction/04JavascriptRunsOnHostEnv.md)
+- [JavaScript 기초](Javascript/JSbasic.md)
+- [Array](Javascript/Array.md)
+- [Boolean](Javascript)
+- [Null](Javascript/Null.md)
+- [Number](Javascript/Number.md)
+- [Object](Javascript/Object.md)
+- [String](Javascript/String.md)
+- [Undefined](Javascript/Undefined.md)
+- [Function](Javascript/function.md)
+- [Method](Javascript/Method.md)
+- [DOM API](Javascript/DomAPI.md)
 
 ### Kotlin
 - [Getting Started with Kotlin](Kotlin/GettingStartedKotlin.md)
