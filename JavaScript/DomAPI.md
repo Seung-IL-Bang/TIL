@@ -47,6 +47,20 @@ console.log(boxEls);
 
 <br>
 
+### `document.createElement()`
+
+```javascript
+const ulEl = document.querySelector('ul')
+
+const li = document.createElement('li')
+li.textContent = 'String'
+
+ulEl.appendChild(li)
+```
+ulEl 부모 요소에 li 자식 요소 추가하는 방법이다. `createElement`를 통해 요소를 js로 생성할 수 있고, selector로 가져온 요소에 `appendChild`로 생성한 요소를 자식 요소로 등록할 수 있다. 등록된 순서대로 차례대로 구조상 위에서 부터 쌓인다.
+
+<br>
+
 ### `forEach()`
 
 `querySelectorAll()`로 찾은 요소들에 대해 반복해서 함수를 실행한다. 익명 함수를 인수로 추가한다.

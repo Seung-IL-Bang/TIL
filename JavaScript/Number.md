@@ -10,3 +10,17 @@ let number = 123;
 ```javascript
 let opacity = 1.57;
 ```
+
+<br>
+
+### 쓸만한 메소드
+
+`toFixed(n: int)`
+
+소숫점 n 번째 자리까지 나타낸 실수를 문자열로 반환한다.
+
+<br>
+
+`parseInt(str)` & `parseFloat(str)`
+
+숫자 리터럴인 문자열들을 정수 & 실수로 변환해준다.

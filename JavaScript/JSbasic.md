@@ -74,3 +74,51 @@ if (isShow) {
 ```
 
 <br>
+
+### 일치 연산자 vs 동등 연산자
+
+1. 일치 연산자 '==='
+: 두 변수의 메모리 주소 값이 같은지 참/거짓, 형변환 없이 실제 값 비교
+
+1. 동등 연산자 '==' (사용 미권장)
+: 형 변환(Type Conversion) 이 일어나서 값을 비교한다.
+
+```javascript
+1 === '1' // false
+1 == '1' // true
+```
+
+<br>
+
+### 불리언 형 변환(Type Conversion)
+
+1. Truthy(참과 같은 값)
+   - true
+   - {} (객체, 빈객체)
+   - [] (배열, 빈배열)
+   - 양수, 음수
+   - 문자열
+
+<br>
+
+2. Falsy(거짓과 같은 값)
+   - false
+   - '', "" (빈 문자열 또는 빈 문자)
+   - null
+   - undefined
+   - 0
+   - NaN (Not a Number) <- 1 + undefined
+
+<br>
+
+### 리터럴 생성 방식
+
+특정 기호로 어떤 데이터를 바로 만들어내는 방식을 리터럴 방식이라 한다.
+
+```javascript
+const obj = {}
+
+const str = "a"
+
+const arr = []
+```
