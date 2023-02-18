@@ -339,7 +339,7 @@ CSS Properties ▼
 - [Introduction to React](React/Introduction.md)
 - [Function Component](React/Component.md)
 - [props](React/props.md)
-
+- [Curly Brace](React/CurlyBrace.md)
 
 
 ### Redis
