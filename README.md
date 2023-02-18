@@ -295,6 +295,7 @@ CSS Properties ▼
 - [typeof](Javascript/typeof.md)
 - [Undefined](Javascript/Undefined.md)
 - [Variable Scope](Javascript/VariableScope.md)
+- [toLocaleString()](Javascript/method/toLocaleString.md)
 
 ### Kotlin
 - [Getting Started with Kotlin](Kotlin/GettingStartedKotlin.md)
