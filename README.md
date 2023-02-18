@@ -338,6 +338,7 @@ CSS Properties ▼
 ### React
 - [Introduction to React](React/Introduction.md)
 - [Function Component](React/Component.md)
+- [props](React/props.md)
 
 
 
