@@ -26,7 +26,7 @@
 - [HTTP](#http)
 - [IntelliJ](#intellij)
 - [Java](#java)
-- [JavaScript](#javascript)
+- [Javascript](#javascript)
 - [Kotlin](#kotlin)
 - [Nginx](#nginx)
 - [Node](#node)
@@ -255,7 +255,7 @@ CSS Properties ▼
 
 <br>
 
-### JavaScript
+### Javascript
 - [What Is JavaScript?](JavaScript/[01]%20Introduction/WhatIsJavaScript.md)
 - [How is Javascript Executed?](JavaScript/[01]%20Introduction/02HowIsJavaScriptExecuted.md)
 - [Dynamic & Weakly Type](JavaScript/[01]%20Introduction/03Dynamic&WeaklyType.md)
