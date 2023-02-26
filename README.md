@@ -27,6 +27,7 @@
 - [IntelliJ](#intellij)
 - [Java](#java)
 - [Javascript](#javascript)
+- [jQuery](#jquery)
 - [Kotlin](#kotlin)
 - [Nginx](#nginx)
 - [Node](#node)
@@ -296,6 +297,9 @@ CSS Properties ▼
 - [Undefined](Javascript/Undefined.md)
 - [Variable Scope](Javascript/VariableScope.md)
 - [toLocaleString()](Javascript/method/toLocaleString.md)
+
+### jQuery
+- [jQuery.ajax](jQuery/ajax.md)
 
 ### Kotlin
 - [Getting Started with Kotlin](Kotlin/GettingStartedKotlin.md)
