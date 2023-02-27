@@ -79,3 +79,11 @@ let main = {
 
 main.init();
 ```
+
+<br>
+
+```javascript
+let _this = this;
+```
+`_this` 는 기명함수 안에서 정의 되었기 때문에 `main` 을 가리키게 된다.
+
