@@ -114,12 +114,26 @@ void update(int i, int num) {
     }
 }
 ```
+❗️주의: update가 호출되더라도 Tree의 구간합만 변경된다. 원소들을 담은 배열은 변경되지 않는다.
 
 <br>
 
 ![i 번째 데이터를 변경했을 때, 업데이트 해야하는 Tree[ i ]를 나타낸 그림이다.](../../../images/CodingTest/Tree/FenwickTree/5.png)
 
 i 번째 데이터를 변경했을 때, 업데이트 해야하는 Tree[ i ]를 나타낸 그림이다.
+
+<br>
+
+### Tree 초기화
+
+주어지는 수들을 배열로 받은 뒤, 맨 처음 Tree를 초기화 해줘야 한다. 아래 코드처럼 원소를 입력 받을 때마다 update 함수를 호출해주면 된다.
+
+```java
+for(int i = 1; i <= n; i++) {
+	arr[i] = readLine().toInt()
+	update(i, arr[i])
+}
+```
 
 <br>
 
