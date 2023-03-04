@@ -122,6 +122,7 @@
 - [벨만-포드(Bellman-Ford)](CodingTest/Concepts/ShortestPaths/BellmanFord.md)
 - [플로이드-와셜(Floyd-Warshall](CodingTest/Concepts/ShortestPaths/FloydWarshall.md)
 - [세그먼트 트리(Segment Tree)](CodingTest/Concepts/Tree/SegmentTree.md)
+- [펜윅 트리(Fenwick Tree)](CodingTest/Concepts/Tree/FenwickTree.md)
 - [시간 복잡도 비교 그래프](CodingTest/BigO.md)
   
 
