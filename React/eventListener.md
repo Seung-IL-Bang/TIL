@@ -21,3 +21,7 @@ const titleChangeHandler = (event) => {
     console.log(event.target.value)
   }
 ```
+
+<br>
+
+기본적으로 input에 대해 변화를 감지하고 이벤트를 들을 때마다 input 요소의 값을 읽으면 그 값은 항상 문자열이기 때문에, 그래서 변수의 초기값을 모두 빈 문자열로 해주는 것이다 useState(''). 즉, 입력되는 데이터의 타입이 숫자든, 날짜 포맷이든, event.target.value로 조회하는 값은 무조건 문자열로 반환된다.
