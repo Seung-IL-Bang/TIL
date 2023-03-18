@@ -65,3 +65,21 @@ setUserInput({
     })
 ```
 스프레드 연산자를 통해 기존의 모든 키:값 쌍들의 개체를 복사하고, 뒤에 오는 키:값 쌍만 재정의된다.  여기서 주의할 점은 스프레드 연산자가 맨 앞에 와야지 변화된 값만 덮어쓰기가 정상적으로 이루어진다. 스프레드가 뒤에 오게되면 변화된 값은 무시되고 기존의 값들로만 덮어쓰여진다.
+
+<br>
+
+```javascript
+  // const [enteredTitle, setEnteredTitle] = useState("");
+  // const [enteredAmount, setEnteredAmount] = useState("");
+  // const [enteredDate, setEnteredDate] = useState("");
+  const [userInput, setUserInput] = useState({
+    enteredTitle: "",
+    enteredAmount: "",
+    enteredDate: "",
+  });
+```
+
+
+하나의 컴포넌트 안에 여러 개의 스테이트가 필요한 경우 각각 useState를 사용하기보단 객체 한 곳에 모은 다음 하나의 useState로 관리하는 방법도 있다(단일 상태 관리). 개별적인 상태를 각각 관리해도 좋다(다중 상태 관리). 개인 취향에 따라 코딩하자. 단일 상태 관리로 코딩할 경우 상태 업데이트 함수를 사용할 때 동시성 문제에 유의하자! 그럴 경우엔 prevState를 꼭 사용하자.
+
+보통 이전 상태(스냅샷)에 의존하는 경우 단일 상태 관리로 사용한다.
