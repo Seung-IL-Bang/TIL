@@ -46,6 +46,8 @@ Flex-items 묶음(줄 바꿈) 여부
 - flex-end : Flex Items 를 끝점에서 정렬
 - center : Flex Items 를 가운데에서 정렬
 
+[MDN Reference](https://developer.mozilla.org/ko/docs/Web/CSS/justify-content)
+
 > 주의 ❗️
 >
 >flex-direction 을 바꿔서 주축을 변경하지 않는 이상, 정렬되는 위치만 다를 뿐 정렬되는 요소들의 순서는 바뀌지 않는다!
