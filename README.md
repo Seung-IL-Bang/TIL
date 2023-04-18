@@ -211,6 +211,7 @@ CSS Properties ▼
 ### Java
 
 - [extends & implements 차이점](/Java/polymorphism/extends%26implements.md)
+- [추상 클래스와 인터페이스 비교](/Java/polymorphism/abstract%26interface.md)
 
 <details>
     <summary>예제 코드</summary>
