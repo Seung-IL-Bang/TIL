@@ -40,7 +40,7 @@ public class MyThread implements Runnable {
 
 <br>
 
-<asid style="display: flex; border-radius: 3px; color: rgb(55,53,47); background: rgb(241, 241, 239); padding: 16px 16px 16px 12px;">
+<aside style="display: flex; border-radius: 3px; color: rgb(55,53,47); background: rgb(241, 241, 239); padding: 16px 16px 16px 12px;">
 💡 따라서 extends는 클래스 간의 상속 관계를 정의하는 데 사용되고, implements는 클래스에서 구현해야 할 인터페이스를 정의하는 데 사용된다.
 
-</asid>
+</aside>
