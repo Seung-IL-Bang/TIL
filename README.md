@@ -210,6 +210,8 @@ CSS Properties ▼
 
 ### Java
 
+- [extends & implements 차이점](/Java/inherit/extends%26implements.md)
+
 <details>
     <summary>예제 코드</summary>
 
