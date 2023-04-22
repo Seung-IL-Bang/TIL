@@ -17,6 +17,7 @@
 - [CodingTest](#codingtest)
 - [Computer Science](#computer-science)
 - [CSS](#css)
+- [Database](#database)
 - [Data Structure](#data-structure)
 - [Docker](#docker)
 - [Error](#error)
@@ -170,6 +171,9 @@ CSS Properties ▼
 - [transform](CSS/Properties/transform.md)
 - [transition](CSS/Properties/transition.md)
 - [width, height](CSS/Properties/width%26height.md)
+
+### Database
+- [정규화(Normalization)](Database/Normalization.md)
 
 ### Data Structure
 - [Binary Tree](CodingTest/Concepts/Tree/BinaryTree.md)
