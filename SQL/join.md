@@ -47,3 +47,9 @@ FROM PRODUCT A INNER JOIN PRODUCT_REVIEW B
 ### **RIGHT OUTER JOIN**
 
 : SQL에서 오른쪽에 표기된 테이블의 데이터는 무조건 출력되는 방식이다. 대신 왼쪽 테이블에 JOIN 되는 데이터가 없는 Row 들은 왼쪽 테이블 컬럼의 값이 NULL로 출력된다.
+
+<br>
+
+### **FULL OUTER JOIN**
+
+: 왼쪽, 오른쪽 테이블의 데이터가 모두 출력되는 방식이다. LEFT OUTER JOIN 과 RIGHT OUTER JOIN의 `합집합`이다. (단, 중복값은 제거)
