@@ -53,3 +53,10 @@ FROM PRODUCT A INNER JOIN PRODUCT_REVIEW B
 ### **FULL OUTER JOIN**
 
 : 왼쪽, 오른쪽 테이블의 데이터가 모두 출력되는 방식이다. LEFT OUTER JOIN 과 RIGHT OUTER JOIN의 `합집합`이다. (단, 중복값은 제거)
+
+
+<br>
+
+### NATURAL JOIN
+
+: A 테이블과 B 테이블에서 같은 이름을 가진 컬럼들이 모두 동일한 데이터를 가지고 있을 경우 JOIN 되는 방식이다. (단, SQL Server(MSSQL) 에서는 지원하지 않는다.) Oracle 에서는 `USING` 조건절을 이용하여 같은 이름을 가진 컬럼 중 원하는 컬럼만 JOIN 에 이용할 수 있다. 단, SELECT 절에서 USING 절로 정의된 컬럼 앞에는 별도의 ALIAS나 테이블명을 붙이지 않아야 한다. 또한 WHERE 절을 통해 JOIN 조건을 추가 할 수 없다.
