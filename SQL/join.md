@@ -60,3 +60,9 @@ FROM PRODUCT A INNER JOIN PRODUCT_REVIEW B
 ### NATURAL JOIN
 
 : A 테이블과 B 테이블에서 같은 이름을 가진 컬럼들이 모두 동일한 데이터를 가지고 있을 경우 JOIN 되는 방식이다. (단, SQL Server(MSSQL) 에서는 지원하지 않는다.) Oracle 에서는 `USING` 조건절을 이용하여 같은 이름을 가진 컬럼 중 원하는 컬럼만 JOIN 에 이용할 수 있다. 단, SELECT 절에서 USING 절로 정의된 컬럼 앞에는 별도의 ALIAS나 테이블명을 붙이지 않아야 한다. 또한 WHERE 절을 통해 JOIN 조건을 추가 할 수 없다.
+
+<br>
+
+### CROSS JOIN
+
+: CROSS JOIN은 A 테이블과 B 테이블 사이에 JOIN 조건이 없는 경우, 조합할 수 있는 모든 경우를 출력하는 방식이다. 모든 경우의 수를 출력할 때 다른 말로 `Cartesian Product` 라고 표현한다. 그리고 WHERE 절에 JOIN 조건을 추가할 수는 있지만, 이런 경우 INNER JOIN 과 같은 결과를 얻기 때문에 CROSS JOIN 을 사용하는 의미가 없어지므로 WHERE 절에 조건을 추가하는 것은 권장하지 않는다.
