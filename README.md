@@ -393,7 +393,7 @@ CSS Properties ▼
 - [Attribute](SQL/SQLD_Part01/ch01/Attribute.md)
 - [Relationship](SQL/SQLD_Part01/ch01/Relationship.md)
 - [Identifiers](SQL/SQLD_Part01/ch01/Identifiers.md)
-
+- [Join](SQL/join.md)
 
 ### WebRTC
 - [WebRTC_Outline](WebRTC/WebRTC_Outline.md)
