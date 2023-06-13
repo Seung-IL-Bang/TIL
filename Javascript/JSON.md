@@ -20,6 +20,15 @@ JSON 규격에 맞는 문자열이 존재하는 경우에도 문자열에서 다
 const obj = JSON.parse(str)
 ```
 
+로컬 스토리지(localStorage) 에서 `getItem` 해온 JSON 문자열을 javascript 객체로 바꿀 때도 사용한다.
+
+```javascript 
+    const data = localStorage.getItem('userinfo')
+    const userinfo = JSON.parse(data) // JSON -> javascript obj
+    const email = userinfo.email
+    const writer = userinfo.name
+```
+
 <br>
 
 ### JSON 규격
