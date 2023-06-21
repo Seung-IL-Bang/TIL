@@ -308,6 +308,7 @@ CSS Properties ▼
 - [Undefined](Javascript/Undefined.md)
 - [Variable Scope](Javascript/VariableScope.md)
 - [toLocaleString()](Javascript/method/toLocaleString.md)
+- [window method](Javascript/window.md)
 
 ### jQuery
 - [jQuery.ajax](jQuery/ajax.md)
