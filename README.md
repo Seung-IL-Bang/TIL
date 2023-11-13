@@ -100,7 +100,8 @@
 - [Cloud_Computing](Cloud/Cloud_Computing.md)
 
 ### CodingTest
-    
+
+- [메소드 정리](CodingTest/ZipMethod.md)    
 - [선택 정렬(Selection Sorting)](CodingTest/Concepts/Sorting/selectionSort.md)
 - [삽입 정렬(Insertion Sorting)](CodingTest/Concepts/Sorting/insertionSort.md)
 - [퀵 정렬(Quick Sorting)](CodingTest/Concepts/Sorting/quickSort.md)

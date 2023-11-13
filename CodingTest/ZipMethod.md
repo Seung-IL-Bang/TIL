@@ -1,0 +1,44 @@
+- java 문자열(String) 클래스 메소드
+    - `charAt(int index)` → `char`
+    - `replaceAll(String regex, String replacement)` → `String`
+    - `new StringBuilder(String str).reverse().toString()` → `String`
+    - `split(String regex)` → `String[]`
+    - `split(String regex, int limit)` → `String[]`
+    - `compareTo(String str)` → `int`
+    - `toLowerCase()` → `String`
+    - `toCharArray()` → `char[]`
+    - `String.valueOf(Object obj)` → `String`
+    - `substring(int fromIndex, int toIndex)` → `String` : [from, to)
+- java 문자(Character) 클래스 메소드
+    - `Character.toLowerCase(char ch)` → `char`
+    - `Character.isLetterOrDigit(char ch)` → `boolean`
+    - `Character.isDigit(char ch)` → `boolean`
+- java 배열(Arrays) 클래스 메소드
+    - `Arrays.asList(T... a)` → `List<T>`
+        - ex: `new HashSet<>(Arrays.asList(arr));`
+    - `Arrays.sort(Object[] a)` → `void` : 오름차순으로 정렬
+- java Collections 클래스 메소드
+    - `Collections.max(Collection<? extned T> coll, Comparator<? super T> comp)` → `T`
+        - ex: `Collections.max(map.entrySet(), Map.Entry.comparingByValue())` → `Map.Entry`
+- java 컬렉션(Collection) 인터페이스 메소드
+    - `toArray(T[] arr)` → `T[]`
+        - ex: `toArray(new String[0])` → `String[]`
+    - `contains(Object o)` → `boolean`
+    - `size()` → `int`
+- java 맵(Map) 인터페이스 메소드
+    - `get(Object key)` → `V`
+    - `getOrDefault(Object key, V defaultValue)` → `V`
+    - `entrySet()` → `Set<Map.Entry<K, V>>`
+    - `containsKey(Object key)` → `boolean`
+    - `containsValue(Object value)` → `boolean`
+    - `values()` → `Collection<V>`
+        - ex: `new ArrayList<>(map.values());`
+    - `keySet()` → `Set<K>`
+- java Map.Entry 인터페이스 메소드
+    - `Map.Entry.comparingByKey()` → `Comparator<Map.Entry<K,V>>`
+    - `Map.Entry.comparingByValue()` → `Comparator<Map.Entry<K,V>>`
+    - `getKey()` → `K`
+    - `getValue()` → `V`
+- java Data Cleansing(Preprocessing)
+    - `replaceAll("\\W+", " ")` : `\W+` 는 연속적으로 단어 문자가 아닌 값을 모두 공백으로 치환
+    - `replaceAll("[^A-Za-z0-9]", "")` : 해당 문자열을 영숫자로만 구성되도록 치환
